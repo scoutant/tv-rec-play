@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" 
+	width="100%" height="100%"
+	xmlns:view="org.scoutant.tvrec.view.*"
+	clipContent="false"
+	initialize="Model.instance.viewport=this"
+	>
+	<mx:Script>
+		<![CDATA[
+			import org.scoutant.tvrec.model.*;
+			[Bindable]
+			public var rows:int = 10; 
+			[Bindable]
+			public var rowHeight:int = 50; 
+			[Bindable]
+			public var guide:Guide;
+		]]>
+	</mx:Script>	
+	
+	
+	<mx:Canvas height="100%" 
+		width="{(Model.instance.now - Model.instance.vpTime) * Model.instance.zoom}"
+		backgroundColor="0xF1E2BE"
+		alpha="0.3"
+		/>
+	
+</mx:Canvas>

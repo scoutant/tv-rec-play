@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:HBox xmlns:mx="http://www.adobe.com/2006/mxml" 
+	backgroundColor="0xFFCB60"
+	alpha=".7"
+	>
+	<mx:VBox>
+		<mx:Form>
+			<mx:FormItem label="channel" >
+				<mx:Text id="channel" 
+					fontSize="16" fontWeight="bold"/>
+			</mx:FormItem>
+			<mx:FormItem label="time" >
+				<mx:Text id="periode" 
+					fontSize="14" fontWeight="bold"/>
+			</mx:FormItem>		
+			<mx:FormItem label="title" >
+				<mx:Text id="title" 
+					fontWeight="bold" fontSize="16"/>
+			</mx:FormItem>
+			<mx:FormItem label="time in min" >
+				<mx:Text id="minute" 
+					/> 
+			</mx:FormItem>		
+			<mx:FormItem label="category" >
+				<mx:Text id="category" 
+					fontWeight="bold"/>
+			</mx:FormItem>
+			<mx:FormItem label="actors" >
+				<mx:Text id="actors"
+					fontWeight="bold" />
+			</mx:FormItem>
+			
+		</mx:Form>
+		
+		<mx:Script>
+			<![CDATA[
+				import org.scoutant.tvrec.model.*;
+				import org.scoutant.tvrec.event.*;
+	
+				public function update(): void {
+					channel.text = Model.instance.guide.channel.name;
+					channelIcon.source = Model.instance.playlist.icon[Model.instance.guide.channel.id];
+					var current:Program = Model.instance.guide.current;
+					periode.text = current.start + "-" + current.stop + ", " + current.day;
+					title.text = current.title + " " + current.subtitle;
+					minute.text = current.a + "-" + current.z;
+					category.text = current.category;
+					actors.text = current.actors;
+				}	
+	
+			]]>
+		</mx:Script>
+	</mx:VBox>
+	<mx:Image 
+		id="channelIcon"
+		width="50" height="50" />
+</mx:HBox>

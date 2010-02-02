@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:VBox xmlns:mx="http://www.adobe.com/2006/mxml" >
+	<mx:Script>
+		<![CDATA[
+			import org.scoutant.tvrec.model.*;
+			import com.adobe.cairngorm.control.CairngormEvent;
+			import org.scoutant.tvrec.event.*;
+		]]>
+	</mx:Script>
+	<mx:HBox>
+		<mx:Button label="o--" 
+			click="new KeyEvent('keyPressed', Keyboard.LEFT).dispatch()" />
+		<mx:Button label="-->" 
+			click="new KeyEvent('keyPressed', Keyboard.RIGHT).dispatch()" />
+		<mx:Button label="." 
+			click="new KeyEvent('keyPressed', Keyboard.DOWN).dispatch()" />
+		<mx:Button label="^" 
+			click="new KeyEvent('keyPressed', Keyboard.UP).dispatch()" />
+
+		<mx:Button label="&lt;===" 
+			click="new IndexEvent('shiftViewport', -1).dispatch()" />
+		<mx:Button label="===>" 
+			click="new IndexEvent('shiftViewport', +1).dispatch()" />
+
+		<mx:Button label="step forward" 
+			click="new CairngormEvent('stepForward').dispatch()" />
+	</mx:HBox>
+	<mx:Form>
+	
+		<mx:FormItem label="channel" >
+			<mx:Text text="{Model.instance.guide.channel}" />
+		</mx:FormItem>
+		<mx:FormItem label="title" >
+			<mx:Text text="{Model.instance.guide.current.normalizedTitle}.avi" />
+		</mx:FormItem>
+		<mx:FormItem label="current" >
+			<mx:Text text="{Model.instance.guide.current}" />
+		</mx:FormItem>
+		<mx:FormItem label="time" >
+			<mx:Text text="{Model.instance.guide.time}" />
+		</mx:FormItem>
+		<mx:FormItem label="now" >
+			<mx:Text text="{Model.instance.now}" />
+		</mx:FormItem>
+		
+	</mx:Form>
+</mx:VBox>

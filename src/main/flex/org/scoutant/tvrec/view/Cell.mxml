@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml"
+	clipContent="false"
+	x="{(program.a - Model.instance.vpTime) * 5}"
+	>
+	<mx:Script>
+		<![CDATA[
+			import com.adobe.cairngorm.control.CairngormEvent;
+			import org.scoutant.tvrec.event.KeyEvent;
+			import org.scoutant.tvrec.model.*;
+			[Bindable]
+			public var program:Program;
+
+            [Bindable][Embed(source='/assets/ksame_1433_24.png')] public var dot:Class;
+			
+		]]>
+	</mx:Script>
+	
+	<mx:Button label="{program.title}" fontWeight="bold" width="{this.width -10}"
+		color="{Model.instance.guide.current == program ? View.ORANGE : 0xFFFFFF}"
+		fontSize="12"
+		borderColor="{(program.a &lt;= Model.instance.now) &amp;&amp; (Model.instance.now &lt; program.z ) ? View.YELLOW : 0xFFFFFF}"
+		icon="{program.record ? dot : null}"
+		/>
+</mx:Canvas>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:UIComponent xmlns:mx="http://www.adobe.com/2006/mxml"
+	xmlns:model="com.orange.labs.car.will.model.*"
+	xmlns:c="com.orange.labs.car.will.controller.*"
+	implements="com.adobe.cairngorm.commands.ICommand"
+	>
+	<!--
+		url="./assets/tv-20100127-20100131.xml" 
+	-->
+	<mx:HTTPService id="ws" method="GET"
+		url="./assets/grab-3.xml" 
+		result="doLoad(event)" fault="faultHandler(event)" 
+		resultFormat="e4x" useProxy="false" 
+		>
+	</mx:HTTPService>
+
+	<mx:Script>
+		<![CDATA[
+			import com.adobe.cairngorm.control.CairngormEvent;
+			import mx.collections.Sort;
+			import mx.core.Application;
+			import mx.collections.ArrayCollection;
+			import mx.rpc.AsyncToken;
+			import mx.rpc.events.ResultEvent;
+			import mx.rpc.events.FaultEvent;
+			import mx.managers.CursorManager;
+			import org.scoutant.tvrec.model.*;
+
+			public function execute( event : CairngormEvent ): void {	
+				ws.send();
+			}
+
+			private function doLoad( event:ResultEvent):void {
+				var response:XML = event.result as XML;
+				//trace("ontv : " + response);
+				var guide:Guide = Model.instance.guide
+
+				for each (var c:XML in response..channel) {
+					var channel:Channel = new Channel( c.@id);
+					channel.name = c.descendants("display-name");
+					channel.icon = c.icon.@src
+					guide.addChannel( channel); 					
+				}
+
+				// programme : terminologie propre a ontv sur region FR ?
+				for each (var x:XML in response..programme) {
+					var p:Program = new Program();
+					p.channel = x.@channel;
+					p._start =  x.@start;
+					p._stop = x.@stop;
+					p.title = x.title;
+					p.subtitle = x.subtitle;
+					p.desc = x.desc;
+					for each (var k:XML in x.category) p.category += k + " "; 
+					for each (var a:XML in x.credits.actor) p.actors += a + ", "; 
+					guide.add(p);
+				}
+				trace( "Guide : " + guide);
+//				new CairngormEvent("initCursor").dispatch();
+				new CairngormEvent("initCursorForDev").dispatch();
+				new CairngormEvent("populateViewport").dispatch();
+				// will launch ..
+				TimerMgr.instance;
+			}
+
+			protected function faultHandler(event:FaultEvent):void {
+				trace ( event.message);
+			}
+
+		]]>
+	</mx:Script>
+</mx:UIComponent>
