@@ -1,0 +1,2487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-url="http://telepoche.guidetele.com/" source-data-url="http://telepoche.guidetele.com/" generator-info-name="XMLTV" generator-info-url="http://membled.com/work/apps/xmltv/">
+  <channel id="C1.telepoche.com">
+    <display-name>TF1</display-name>
+    <icon src="http://telepoche.guidetele.com/medias/chaines/tf1.gif" />
+  </channel>
+  <channel id="C2.telepoche.com">
+    <display-name>France 2</display-name>
+    <icon src="http://telepoche.guidetele.com/medias/chaines/france2.gif" />
+  </channel>
+  <channel id="C3.telepoche.com">
+    <display-name>France 3</display-name>
+    <icon src="http://telepoche.guidetele.com/medias/chaines/france3.gif" />
+  </channel>
+  <channel id="C4.telepoche.com">
+    <display-name>Canal +</display-name>
+    <icon src="http://telepoche.guidetele.com/medias/chaines/canalplus.gif" />
+  </channel>
+  <channel id="C6.telepoche.com">
+    <display-name>M 6</display-name>
+    <icon src="http://telepoche.guidetele.com/medias/chaines/m6_logo.gif" />
+  </channel>
+  <channel id="C195.telepoche.com">
+    <display-name>Gulli</display-name>
+    <icon src="http://telepoche.guidetele.com/medias/chaines/gulli.png" />
+  </channel>
+  <programme start="20100205042000 +0100" stop="20100205044500 +0100" channel="C1.telepoche.com">
+    <title>Sur les routes d'Ushuaïa</title>
+    <sub-title>Les Haïdas</sub-title>
+    <credits></credits>
+    <date>2005</date>
+    <category lang="fr">documentaire</category>
+    <category lang="fr">découverte</category>
+    <length units="minutes">260</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205050000 +0100" stop="20100205053000 +0100" channel="C1.telepoche.com">
+    <title>Très chasse, très pêche</title>
+    <sub-title>Un bât-l'eau réussi</sub-title>
+    <credits></credits>
+    <category lang="fr">documentaire</category>
+    <category lang="fr">nature</category>
+    <length units="hours">5</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205053000 +0100" stop="20100205055500 +0100" channel="C1.telepoche.com">
+    <title>Reportages</title>
+    <sub-title>Les prêtres de la dernière heure</sub-title>
+    <credits>
+      <actor> Patrick Parrot </actor>
+    </credits>
+    <category lang="fr">magazine</category>
+    <category lang="fr">reportage</category>
+    <length units="minutes">330</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205055500 +0100" stop="20100205062000 +0100" channel="C1.telepoche.com">
+    <title>Pas de programme</title>
+    <category lang="fr">non precise</category>
+    <length units="minutes">355</length>
+  </programme>
+  <programme start="20100205062000 +0100" stop="20100205064500 +0100" channel="C1.telepoche.com">
+    <title>Prudence Petitpas</title>
+    <sub-title>Ultra-fous !</sub-title>
+    <desc lang="fr">Prudence Petitpas, habite le village de Moucheron. As du tricot, elle semble être une paisible retraitée. Mais sous ses airs de vieille dame polie, Prudence, est en fait une redoutable enquêtrice</desc>
+    <date>2004</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">380</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205064500 +0100" stop="20100205082500 +0100" channel="C1.telepoche.com">
+    <title>Tfou</title>
+    <desc lang="fr">Au sommaire : Olivia - Dora l'exploratrice - Chuggington - Les Minijusticiers</desc>
+    <date>2010</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">100</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205083000 +0100" stop="20100205092000 +0100" channel="C1.telepoche.com">
+    <title>Téléshopping</title>
+    <desc lang="fr">Depuis sa création en 1987, Téléshopping présente, chaque année, de nouveaux produits aussi pratiques qu'ingénieux, longuement testés et vérifiés. Les téléspectateurs peuvent toujours passer commande soit : - par téléphone au 3650 - par internet, se connecter au site www.teleshopping.fr</desc>
+    <credits>
+      <actor> Sophie Gaillard </actor>
+      <actor> Gérard Baud </actor>
+      <actor> Damien Bravais </actor>
+      <actor> Virginie Daviaud </actor>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">télé-achat</category>
+    <length units="minutes">510</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205092000 +0100" stop="20100205094000 +0100" channel="C1.telepoche.com">
+    <title>Le destin de Lisa</title>
+    <desc lang="fr">Les Kerima Awards représentent une belle victoire pour Lisa. David fête l'évènement avec elle et ses amis. Mais, hélas, un complot se prépare à leur insu. Katia doit faire face à un problème au kiosque</desc>
+    <credits>
+      <actor> Alexandra Neldel </actor>
+      <actor> Mathis Künzler </actor>
+      <actor> Matthias Dietrich </actor>
+      <actor> Nina-Friederike Gnädig </actor>
+      <actor> Bianca Hein </actor>
+      <actor> Volker Herold </actor>
+      <actor> Stefanie Höner </actor>
+      <actor> Karim Köster </actor>
+      <actor> Ulrike Mai </actor>
+      <actor> Wilhelm Manske </actor>
+      <actor> Laura Osswald </actor>
+      <actor> Olivia Pascal </actor>
+      <actor> Hubertus Regout </actor>
+      <actor> Gabriele Scharnitzky </actor>
+      <actor> Oliver Bokern </actor>
+    </credits>
+    <date>2005</date>
+    <category lang="fr">feuilleton</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">560</length>
+  </programme>
+  <programme start="20100205094000 +0100" stop="20100205101000 +0100" channel="C1.telepoche.com">
+    <title>Le destin de Lisa</title>
+    <desc lang="fr">Lisa accepte l'invitation de David à se joindre à la fête chez ses parents. Mais, confrontée à une série d'incidents, elle se retrouve bientôt seule. Après voir conclu un pacte avec Victor, Richard met tout en oeuvre pour faire chuter le cours des actions de Kerima. Frédéric ne parvient pas à se rapprocher de Laura. Dans un excès de colère, il s'en prend à David</desc>
+    <credits>
+      <actor> Alexandra Neldel </actor>
+      <actor> Mathis Künzler </actor>
+      <actor> Matthias Dietrich </actor>
+      <actor> Nina-Friederike Gnädig </actor>
+      <actor> Bianca Hein </actor>
+      <actor> Volker Herold </actor>
+      <actor> Stefanie Höner </actor>
+      <actor> Karim Köster </actor>
+      <actor> Ulrike Mai </actor>
+      <actor> Wilhelm Manske </actor>
+      <actor> Laura Osswald </actor>
+      <actor> Olivia Pascal </actor>
+      <actor> Hubertus Regout </actor>
+      <actor> Gabriele Scharnitzky </actor>
+      <actor> Oliver Bokern </actor>
+    </credits>
+    <date>2005</date>
+    <category lang="fr">feuilleton</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">580</length>
+  </programme>
+  <programme start="20100205101000 +0100" stop="20100205103000 +0100" channel="C1.telepoche.com">
+    <title>Le destin de Lisa</title>
+    <desc lang="fr">Frédéric est victime d'une crise cardiaque. Lisa, persuadée d'avoir provoqué son malaise, ne cesse d'importuner sa famille en lui proposant son aide. Richard, qui cherche à profiter de la situation pour évincer David, est vivement critiqué par Sophie et Mariella, toutes deux très affectées par les événements</desc>
+    <credits>
+      <actor> Alexandra Neldel </actor>
+      <actor> Mathis Künzler </actor>
+      <actor> Matthias Dietrich </actor>
+      <actor> Nina-Friederike Gnädig </actor>
+      <actor> Bianca Hein </actor>
+      <actor> Volker Herold </actor>
+      <actor> Stefanie Höner </actor>
+      <actor> Karim Köster </actor>
+      <actor> Ulrike Mai </actor>
+      <actor> Wilhelm Manske </actor>
+      <actor> Laura Osswald </actor>
+      <actor> Olivia Pascal </actor>
+      <actor> Hubertus Regout </actor>
+      <actor> Gabriele Scharnitzky </actor>
+      <actor> Oliver Bokern </actor>
+    </credits>
+    <date>2005</date>
+    <category lang="fr">feuilleton</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">610</length>
+  </programme>
+  <programme start="20100205103000 +0100" stop="20100205110500 +0100" channel="C1.telepoche.com">
+    <title>Le destin de Lisa</title>
+    <desc lang="fr">Ayant constaté que David n'était pas dans son état normal depuis le malaise de monsieur Seidel, Richard en profite pour envoyer un courrier aux revendeurs de la marque Kerima en leur intimant l'ordre de procéder à une remise commerciale. Il espère ainsi jeter le discrédit sur la société et faire chuter le cours des actions</desc>
+    <credits>
+      <actor> Alexandra Neldel </actor>
+      <actor> Mathis Künzler </actor>
+      <actor> Matthias Dietrich </actor>
+      <actor> Nina-Friederike Gnädig </actor>
+      <actor> Bianca Hein </actor>
+      <actor> Volker Herold </actor>
+      <actor> Stefanie Höner </actor>
+      <actor> Karim Köster </actor>
+      <actor> Ulrike Mai </actor>
+      <actor> Wilhelm Manske </actor>
+      <actor> Laura Osswald </actor>
+      <actor> Olivia Pascal </actor>
+      <actor> Hubertus Regout </actor>
+      <actor> Gabriele Scharnitzky </actor>
+      <actor> Oliver Bokern </actor>
+    </credits>
+    <date>2005</date>
+    <category lang="fr">feuilleton</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">630</length>
+  </programme>
+  <programme start="20100205110700 +0100" stop="20100205120000 +0100" channel="C1.telepoche.com">
+    <title>La Ferme célébrités en Afrique</title>
+    <desc lang="fr">14 célébrités renoncent à leur confort habituel pour vivre en pleine brousse africaine ! Pour son grand retour, La Ferme Célébrités déménage ! Bienvenue en Afrique du Sud avec sa savane et ses animaux sauvages ! Adieu confort, luxe et oisiveté... car, à La Ferme, les célébrités vont devoir s'adapter au confort très relatif de la vie dans une réserve africaine ! Adieu veaux, vaches, cochons car, dans cette ferme pas comme les autres, les autruches vont remplacer les poules et la mare aux canards va devenir la mare aux crocodiles... Manioc, patates douces, mangues, ananas vont s'installer dans le potager</desc>
+    <date>2010</date>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">667</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205120000 +0100" stop="20100205125500 +0100" channel="C1.telepoche.com">
+    <title>Attention à la marche !</title>
+    <desc lang="fr">Gravir les marches sans trébucher, tel est le défi des candidats qui souhaitent décrocher jusqu'à 20 000 euros à partager avec un téléspectateur. Pour y parvenir, ils doivent d'abord répondre à des questions aussi divertissantes qu'originales portant sur le comportement et la vie quotidienne des Français... C'est toujours dans la bonne humeur que Jean-Luc Reichmann reçoit sur son plateau des anonymes et des célébrités</desc>
+    <date>2010</date>
+    <category lang="fr">jeu</category>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205130000 +0100" stop="20100205135000 +0100" channel="C1.telepoche.com">
+    <title>Journal</title>
+    <category lang="fr">journal</category>
+    <length units="hours">1</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205135500 +0100" stop="20100205145000 +0100" channel="C1.telepoche.com">
+    <title>Les feux de l'amour</title>
+    <desc lang="fr">Carmen et Paul discutent à l'écart de Drucilla durant la soirée. Neil sermonne sa femme et lui demande de rentrer. Sharon et Jack terminent la soirée au calme. Phyllis et Nick trouvent Noah endormi sur leur canapé. Le jeune garçon a, en effet, faussé compagnie à sa baby-sitter. Nikki tente de rentrer chez elle mais Victor, en plein délire, a barricadé la porte et la menace d'une arme</desc>
+    <credits>
+      <actor> Eric Braeden </actor>
+      <actor> Sharon Case </actor>
+      <actor> Joshua Morrow </actor>
+      <actor> Peter Bergman </actor>
+      <actor> Melody Thomas Scott </actor>
+      <actor> Michelle Stafford </actor>
+      <actor> Christian Leblanc </actor>
+      <actor> Greg Rikaart </actor>
+      <actor> Thad Luckinbill </actor>
+      <actor> Don Diamont </actor>
+      <actor> Kristoff St. John </actor>
+      <actor> Christel Khalil </actor>
+      <actor> Michael Graziadei </actor>
+      <actor> Jess Walton </actor>
+      <actor> Tracey E. Bregman </actor>
+      <actor> Doug Davidson </actor>
+      <actor> Judith Chapman </actor>
+      <actor> Victoria Rowell </actor>
+      <actor> Amelia Heinle </actor>
+      <actor> Eileen Davidson </actor>
+      <actor> Jeanne Cooper </actor>
+      <actor> Bryton McClure </actor>
+      <actor> Jerry Douglas </actor>
+      <actor> Lauren Woodland </actor>
+      <actor> John Enos III </actor>
+      <actor> Adrienne Frantz </actor>
+      <actor> Daniel Goddard </actor>
+      <actor> Ted Shackelford </actor>
+      <actor> Patty Weaver </actor>
+    </credits>
+    <category lang="fr">feuilleton</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">115</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205145000 +0100" stop="20100205163500 +0100" channel="C1.telepoche.com">
+    <title>Ma voisine du dessous</title>
+    <desc lang="fr">Christine Letellier est une femme superbe à qui tout réussit... à un seul détail près : elle déteste son voisin, Jeff Wallace. Lorsque Christine a emménagé dans son immeuble, il était convenu que Jeff déménage afin qu'elle puisse agrandir son appartement. Mais Jeff refuse de déménager...</desc>
+    <credits>
+      <actor> J.P. Davis </actor>
+      <actor> Michèle Laroque </actor>
+      <actor> Matthew Modine </actor>
+      <actor> Ed Quinn </actor>
+      <actor> Gina Mantegna </actor>
+      <actor> Ann Cusack </actor>
+      <actor> Krysten Leigh Jones </actor>
+      <actor> Robert Della Cerra </actor>
+      <actor> Danielle Bisutti </actor>
+      <actor> Patrick Breen </actor>
+      <actor> Marc Casabani </actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">téléfilm</category>
+    <category lang="fr">comédie sentimentale</category>
+    <length units="minutes">105</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205163500 +0100" stop="20100205172500 +0100" channel="C1.telepoche.com">
+    <title>New York, police judiciaire</title>
+    <sub-title>La louve</sub-title>
+    <desc lang="fr">Brad Osterhaus, un agent de change talentueux, est retrouvé mort dans son appartement. Il est tombé dans les escaliers mais la cause du décès est pourtant due à un coup porté à la tête. Bientôt, l'enquête révèle que la victime était entouré de nombreuses femmes</desc>
+    <credits>
+      <actor> Jerry Orbach </actor>
+      <actor> Jesse L. Martin </actor>
+      <actor> S. Epatha Merkerson </actor>
+      <actor> Sam Waterston </actor>
+      <actor> Elisabeth Röhm </actor>
+      <actor> Fred Thompson </actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">policier</category>
+    <length units="minutes">275</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205172500 +0100" stop="20100205181500 +0100" channel="C1.telepoche.com">
+    <title>Monk</title>
+    <sub-title>Monk prend la route</sub-title>
+    <desc lang="fr">Monk, averti par Stottlemeyer, se rend au commissariat central afin d'y retrouver son père, Jack, qu'il n'a pas revu depuis trente-huit ans. Celui-ci a été arrêté après avoir brûlé un feu et a sollicité l'aide de son fils pour sortir de prison. Les retrouvailles sont loin de bien se passer car Monk n'a pas pardonné à son père d'avoir abandonné sa famille</desc>
+    <credits>
+      <actor> David Stern </actor>
+      <actor> Tony Shalhoub </actor>
+      <actor> Traylor Howard </actor>
+      <actor> Ted Levine </actor>
+      <actor> Bitty Schram </actor>
+      <actor> Jason Gray-Stanford </actor>
+      <actor> Timothy Daly </actor>
+      <actor> Brooke Adams </actor>
+      <actor> Garry Marshall </actor>
+      <actor> Jennifer Dale </actor>
+      <actor> Carl Marotte </actor>
+      <actor> Robin Duke </actor>
+      <actor> Francois Klanfer </actor>
+    </credits>
+    <date>2006</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">policier</category>
+    <length units="minutes">325</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205181500 +0100" stop="20100205190500 +0100" channel="C1.telepoche.com">
+    <title>La Ferme célébrités en Afrique</title>
+    <desc lang="fr">14 célébrités renoncent à leur confort habituel pour vivre en pleine brousse africaine ! Pour son grand retour, La Ferme Célébrités déménage ! Bienvenue en Afrique du Sud avec sa savane et ses animaux sauvages ! Adieu confort, luxe et oisiveté... car, à La Ferme, les célébrités vont devoir s'adapter au confort très relatif de la vie dans une réserve africaine ! Adieu veaux, vaches, cochons car, dans cette ferme pas comme les autres, les autruches vont remplacer les poules et la mare aux canards va devenir la mare aux crocodiles... Manioc, patates douces, mangues, ananas vont s'installer dans le potager</desc>
+    <date>2010</date>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">375</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205190500 +0100" stop="20100205195000 +0100" channel="C1.telepoche.com">
+    <title>Le juste prix</title>
+    <desc lang="fr">Retrouvez Vincent Lagaf' avec toute sa bonne humeur et son humour, dans une version modernisée de ce jeu culte, pour votre plus grand plaisir ! Chaque jour, trois candidats seront sélectionnés pour rejoindre Vincent Lagaf' au centre du plateau et se frotter aux jeux du Juste prix ! Au total, les candidats pourront s'essayer à plus de 30 épreuves différentes dont les incontournables Fakir, Mini-Golf, Tyrolien ou Coup de poing. A la clé, des cadeaux de rêve : scooters, voitures, home cinéma, matériel hi-fi, voyages... A l'issue de chaque émission, les trois candidats tourneront la roue</desc>
+    <date>2010</date>
+    <category lang="fr">jeu</category>
+    <length units="minutes">425</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205200000 +0100" stop="20100205203500 +0100" channel="C1.telepoche.com">
+    <title>Le journal</title>
+    <category lang="fr">journal</category>
+    <length units="hours">8</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205204500 +0100" stop="20100205231000 +0100" channel="C1.telepoche.com">
+    <title>La Ferme célébrités en Afrique</title>
+    <desc lang="fr">14 célébrités renoncent à leur confort habituel pour vivre en pleine brousse africaine ! Pour son grand retour, La Ferme Célébrités déménage ! Bienvenue en Afrique du Sud avec sa savane et ses animaux sauvages ! Adieu confort, luxe et oisiveté... car, à La Ferme, les célébrités vont devoir s'adapter au confort très relatif de la vie dans une réserve africaine ! Adieu veaux, vaches, cochons car, dans cette ferme pas comme les autres, les autruches vont remplacer les poules et la mare aux canards va devenir la mare aux crocodiles... Manioc, patates douces, mangues, ananas vont s'installer dans le potager</desc>
+    <date>2010</date>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">145</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205231500 +0100" stop="20100206002000 +0100" channel="C1.telepoche.com">
+    <title>C'est quoi l'amour ?</title>
+    <sub-title>La 100e : que sont-ils devenus ?</sub-title>
+    <desc lang="fr">Le coeur et ses raisons, la vie amoureuse, du rêve au quotidien : C'est quoi l'amour ? propose des enquêtes, des témoignages sur la société française... Pour comprendre, mais aussi apprendre ce que sont nos émotions et nos désirs, Carole Rousseau et son équipe décryptent les comportements amoureux de toutes les générations. Des reportages au coeur de nos vies, des explications apportées par des psychologues et des expériences vécues : C'est quoi l'amour ? se veut résolument optimiste et humain</desc>
+    <date>2008</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">société</category>
+    <length units="minutes">135</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206002000 +0100" stop="20100206011500 +0100" channel="C1.telepoche.com">
+    <title>Les Experts : Miami</title>
+    <sub-title>Cible coupable</sub-title>
+    <desc lang="fr">Sonya doit être jugée pour complicité d'enlèvement mais elle obtient un sursis jusqu'au procès. A la sortie de la première audience, son avocat est assassiné. Mais était-ce vraiment lui qui était visé ?</desc>
+    <credits>
+      <actor> Barry O'Brien </actor>
+      <actor> David Caruso </actor>
+      <actor> Emily Procter </actor>
+      <actor> Adam Rodriguez </actor>
+      <actor> Khandi Alexander </actor>
+      <actor> Jonathan Togo </actor>
+    </credits>
+    <date>2006</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">policier</category>
+    <length units="minutes">20</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206011500 +0100" stop="20100206020000 +0100" channel="C1.telepoche.com">
+    <title>La Ferme célébrités en Afrique</title>
+    <desc lang="fr">14 célébrités renoncent à leur confort habituel pour vivre en pleine brousse africaine ! Pour son grand retour, La Ferme Célébrités déménage ! Bienvenue en Afrique du Sud avec sa savane et ses animaux sauvages ! Adieu confort, luxe et oisiveté... car, à La Ferme, les célébrités vont devoir s'adapter au confort très relatif de la vie dans une réserve africaine ! Adieu veaux, vaches, cochons car, dans cette ferme pas comme les autres, les autruches vont remplacer les poules et la mare aux canards va devenir la mare aux crocodiles... Manioc, patates douces, mangues, ananas vont s'installer dans le potager</desc>
+    <date>2010</date>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">75</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206020000 +0100" stop="20100206023500 +0100" channel="C1.telepoche.com">
+    <title>Reportages</title>
+    <sub-title>Alcool au volant, audience au tournant</sub-title>
+    <desc lang="fr">Une fois par semaine, le tribunal correctionnel de Saint-Malo auditionne des citoyens qui ont tous un point commun : la conduite en état d'ivresse. Dans cette session baptisée «audience muscadet», une trentaine de conducteurs défile à la barre. Hommes, femmes, jeunes ou retraités, tous ont été contrôlés avec plus de 0,5 grammes d'alcool dans le sang, la «frontière» entre sobriété et délit</desc>
+    <credits></credits>
+    <date>2010</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">reportage</category>
+    <length units="hours">2</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206023500 +0100" stop="20100206033500 +0100" channel="C1.telepoche.com">
+    <title>Sept à huit</title>
+    <desc lang="fr">Harry Roselmack présente ce magazine d'information qui entame sa neuvième saison. Diffusé chaque dimanche soir, «Sept à Huit» rencontre un vif succès auprès du public. Au coeur de l'actualité, «Sept à Huit» propose des reportages liés aux événements de la semaine et dresse le portrait de personnages connus ou inconnus, qui ont fait ou feront l'actualité</desc>
+    <date>2008</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">information</category>
+    <length units="hours">1</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206033500 +0100" stop="20100206042000 +0100" channel="C1.telepoche.com">
+    <title>Tous ensemble</title>
+    <desc lang="fr">Il y a près de chez vous des gens formidables qui ont besoin d'être aidés. Véritable chef d'orchestre de cet élan de générosité, Marc Emmanuel tentera l'impossible pour sortir une famille méritante de l'impasse et réaliser son rêve. Chaque semaine, il nous emmènera partout en France pour débloquer ces situations d'urgence et tous les moyens seront bons pour relever ces incroyables défis. Un véritable challenge pour Marc Emmanuel !</desc>
+    <date>2009</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">société</category>
+    <length units="minutes">215</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205041500 +0100" stop="20100205060000 +0100" channel="C2.telepoche.com">
+    <title>Des mots de minuit</title>
+    <category lang="fr">magazine</category>
+    <category lang="fr">culturel</category>
+    <length units="minutes">105</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205060500 +0100" stop="20100205062900 +0100" channel="C2.telepoche.com">
+    <title>Les Z'Amours</title>
+    <desc lang="fr">Chaque jour, Tex reçoit 3 couples d'amoureux de tous âges et de toutes les régions de France. Qu'ils soient mariés ou non, qu'ils se connaissent depuis 6 mois ou 20 ans, ils s'aiment et pensent tout savoir l'un de l'autre. Mais se connaissent-ils vraiment ? Jusqu'à la 4ème question, la question bonus, tout peut basculer. Mais à l'issue des 7 questions, seul le couple ayant fait le meilleur score pourra jouer la Finale et tenter de remporter le séjour mis en jeu. 7 bonnes réponses en 45'' suffisent. Rapidité, spontanéité, complicité et le voyage en amoureux est gagné !</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">365</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205063000 +0100" stop="20100205085500 +0100" channel="C2.telepoche.com">
+    <title>Télématin</title>
+    <desc lang="fr">Au sommaire : Le journal - Météo - Autopromotion - Emploi - K7 vidéos - Jardins - Sport - Météo - Journal - Flash emploi - Point de vue - Revue de presse - Gourmand - Conso - Les 4 vérités - Santé - Moderne. Le magazine Télématin s'enrichit cette année d'un quart d'heure supplémentaire entièrement dédié à l'actualité artistique et culturelle. Des nouveaux chroniqueurs rejoignent l'équipe, pour parler, chaque jour, de la culture</desc>
+    <date>2010</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">service</category>
+    <length units="minutes">145</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205090500 +0100" stop="20100205093500 +0100" channel="C2.telepoche.com">
+    <title>Des jours et des vies</title>
+    <desc lang="fr">Tout le monde est réuni pour le mariage de Jack et Jennifer. Laura Horton, la mère de Jennifer lui fait une surprise en s'invitant au mariage</desc>
+    <credits>
+      <actor> Frances Reid </actor>
+      <actor> Victor Alfieri </actor>
+      <actor> Susan Seaforth Hayes </actor>
+      <actor> Bill Hayes </actor>
+      <actor> Krista Allen Moritt </actor>
+      <actor> Suzanne Rogers </actor>
+      <actor> Jamie Lyn Bauer </actor>
+      <actor> Deidre Hall </actor>
+      <actor> Eric Billings </actor>
+      <actor> Josh Taylor </actor>
+      <actor> Tanya Boyd </actor>
+      <actor> James Reynolds </actor>
+      <actor> Chelsea Butler </actor>
+      <actor> Wayne Northrop </actor>
+      <actor> Thaao Penglis </actor>
+      <actor> Peggy McCay </actor>
+      <actor> Hohn Clarke </actor>
+      <actor> Renee Jones </actor>
+      <actor> Frank Parker </actor>
+      <actor> Kristian Alfonso </actor>
+      <actor> Katherine Ellis </actor>
+      <actor> Peter Reckell </actor>
+      <actor> John Aniston </actor>
+      <actor> Ivan G'Vera </actor>
+      <actor> Melissa Reeves </actor>
+      <actor> Drake Hogestyn </actor>
+      <actor> Christie Clark </actor>
+      <actor> Billy Warlock </actor>
+      <actor> Matthew Ashford </actor>
+      <actor> Lisa Linde </actor>
+      <actor> Judi Evans Luciano </actor>
+      <actor> Millicient Martin </actor>
+      <actor> Joseph Mascolo </actor>
+      <actor> Alison Sweeney </actor>
+      <actor> Bryan Dattilo </actor>
+      <actor> Pegy McCay </actor>
+      <actor> Austin Peck </actor>
+      <actor> Lauren Koslow </actor>
+      <actor> Arianne Zuker </actor>
+      <actor> Jason Cook </actor>
+      <actor> Farah Fath </actor>
+      <actor> Kyle Brandt </actor>
+      <actor> Brody Hutzler </actor>
+      <actor> John Ingle </actor>
+      <actor> Martha Madison </actor>
+      <actor> Julie Pinson </actor>
+      <actor> Ashley Benson </actor>
+      <actor> Rachel Melvin </actor>
+      <actor> Darin Brooks </actor>
+    </credits>
+    <category lang="fr">feuilleton</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">545</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205093500 +0100" stop="20100205095500 +0100" channel="C2.telepoche.com">
+    <title>Amour, gloire et beauté</title>
+    <desc lang="fr">Stéphanie déclare au lieutement Baker que ce n'est pas Steven Logan qui a tiré sur elle. Il se voit donc obligé de le relâcher. Donna dit à Eric qu'elle est accro au sexe et qu'elle ne peut pas rester avec lui car elle ne veut pas le faire souffrir. Eric lui dit qu'ils affronteront le problème ensemble</desc>
+    <credits>
+      <actor> Susan Flannery </actor>
+      <actor> Winsor Harmon </actor>
+      <actor> Ronn Moss </actor>
+      <actor> Katherine Kelly Lang </actor>
+      <actor> Drew Tyler Bell </actor>
+      <actor> Darlene Conley </actor>
+      <actor> Lesley-Anne Down </actor>
+      <actor> Shae Harrison </actor>
+      <actor> Ashley Jones </actor>
+      <actor> Lesli Kay </actor>
+      <actor> Lorenzo Lamas </actor>
+      <actor> Joseph Mascolo </actor>
+      <actor> John McCook </actor>
+      <actor> Antonio Sabato jr. </actor>
+      <actor> Jeff Trachta </actor>
+      <actor> Hunter Tylo </actor>
+      <actor> Jack Wagner </actor>
+      <actor> Bobbie Eakes </actor>
+      <actor> Schae Harrison </actor>
+      <actor> Michael Fox </actor>
+      <actor> Chris Robinson </actor>
+      <actor> Scott Thompson Baker </actor>
+      <actor> Kimberlin Brown </actor>
+      <actor> Ian Buchanan </actor>
+      <actor> Brent Jasmer </actor>
+      <actor> Michaël Sabatino </actor>
+      <actor> Maitland Ward </actor>
+      <actor> Dylan Neal </actor>
+      <actor> Barbara Crampton </actor>
+      <actor> Lindsay Price </actor>
+      <actor> Lark Voorhees </actor>
+      <actor> Tracey E. Bregman </actor>
+      <actor> Steven Hartman </actor>
+      <actor> Kyle Sabihy </actor>
+      <actor> Kin Shriner </actor>
+      <actor> Ellen Wheeler </actor>
+    </credits>
+    <category lang="fr">feuilleton</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">575</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205095500 +0100" stop="20100205105500 +0100" channel="C2.telepoche.com">
+    <title>C'est au programme</title>
+    <desc lang="fr">A partir du lundi 7 septembre, retrouvez C'est au programme tous les jours et en direct. L'émission fait sa rentrée quotidienne avec une nouvelle formule. Le magazine conçu et produit par William Leymergie, présenté par Sophie Davant, revient pour sa 11e saison, du lundi au vendredi, de 9.55 à 10.50, dorénavant sans l'interruption du mercredi. Le magazine propose encore plus d'interactivité. Les téléspectateurs peuvent intervenir tout au long de l'émission sur les thèmes abordés en donnant leur avis, en apportant leurs conseils, en proposant leurs bons plans et en relatant leurs anecdotes et leurs expériences par téléphone, SMS et internet</desc>
+    <date>2010</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">actualité</category>
+    <length units="hours">1</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205110000 +0100" stop="20100205113000 +0100" channel="C2.telepoche.com">
+    <title>Motus</title>
+    <desc lang="fr">Chaque jour, Thierry Beccaro reçoit deux équipes de deux candidats chacune. Un tirage au sort détermine leur pupitre respectif (jaune et bleu) et c'est l'équipe «bleue» qui a la charge de tirer un papier sur lequel est inscrit le nombre de lettres avec lequel tous joueront (de 6 à 9 lettres). L'équipe «jaune» démarre la partie avec la première lettre affichée sur la grille. Elle dispose de 8 secondes pour proposer un mot, et de 6 propositions pour trouver le mot programmé dans l'ordinateur. Chaque mot découvert rapporte 50 points. Si elle commet une erreur ou ne propose pas de mot, la main passe automatiquement à l'équipe adverse</desc>
+    <credits></credits>
+    <date>2010</date>
+    <category lang="fr">jeu</category>
+    <length units="hours">11</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205113000 +0100" stop="20100205120000 +0100" channel="C2.telepoche.com">
+    <title>Les Z'Amours</title>
+    <desc lang="fr">Chaque jour, Tex reçoit 3 couples d'amoureux de tous âges et de toutes les régions de France. Qu'ils soient mariés ou non, qu'ils se connaissent depuis 6 mois ou 20 ans, ils s'aiment et pensent tout savoir l'un de l'autre. Mais se connaissent-ils vraiment ? Jusqu'à la 4ème question, la question bonus, tout peut basculer. Mais à l'issue des 7 questions, seul le couple ayant fait le meilleur score pourra jouer la Finale et tenter de remporter le séjour mis en jeu. 7 bonnes réponses en 45'' suffisent. Rapidité, spontanéité, complicité et le voyage en amoureux est gagné !</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">690</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205120000 +0100" stop="20100205125000 +0100" channel="C2.telepoche.com">
+    <title>Tout le monde veut prendre sa place</title>
+    <desc lang="fr">Nagui présente Tout le monde veut prendre sa place, le jeu où tout le monde peut devenir un champion. Un quiz, six candidats et, bien callé dans son fauteuil, un champion... que tous rêvent de déloger ! Chaque jour, un seul pourra se mesurer à lui et espérer devenir le nouveau champion. Jusqu'à quand ? Un nouveau jeu frais et divertissant pour vos fins de matinées. Chaque jour, six candidats vont tenter de prendre la place du «champion» et accumuler les gains tous les jours... en répondant à des questionnaires thématisés, pour approfondir des sujets précis en s'amusant</desc>
+    <date>2010</date>
+    <category lang="fr">jeu</category>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205130000 +0100" stop="20100205135000 +0100" channel="C2.telepoche.com">
+    <title>Journal</title>
+    <category lang="fr">journal</category>
+    <length units="hours">1</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205140000 +0100" stop="20100205151500 +0100" channel="C2.telepoche.com">
+    <title>Toute une histoire</title>
+    <desc lang="fr">«Toute une histoire» est plus une émission de conversation que de débat : Jean-Luc Delarue ne reçoit pas plus de trois invités principaux par émission et est assis à leur côté, sur un plateau plutôt intimiste qui favorise la proximité, l'échange et la confidence. L'histoire des invités se révèle au fil des reportages et des conversations avec Jean-Luc Delarue</desc>
+    <credits></credits>
+    <date>2010</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">découverte</category>
+    <length units="minutes">75</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205151500 +0100" stop="20100205161500 +0100" channel="C2.telepoche.com">
+    <title>Comment ça va bien !</title>
+    <desc lang="fr">Ce nouveau magazine d'après-midi propose aux téléspectateurs chaque jour un moment de détente en public. Il traite de l'art de vivre au quotidien sous la forme de tests réalisés par l'équipe de Stéphane Bern. Dans la bonne humeur, Stéphane Bern entouré de 6 spécialistes propose de tester des situations, des services, des pratiques, des comportements, des modes de vie, des échanges d'expériences afin de donner aux téléspectateurs des informations, des impressions et des conseils pour améliorer leur quotidien. Tous les thèmes seront passés en revue dans l'émission</desc>
+    <credits></credits>
+    <date>2010</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">société</category>
+    <length units="hours">1</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205161500 +0100" stop="20100205170500 +0100" channel="C2.telepoche.com">
+    <title>Commissaire Lea Sommer</title>
+    <sub-title>Une promenade fatale</sub-title>
+    <desc lang="fr">La meilleure amie de Lea Sommer, Barbara, est assassinée au lendemain de son remariage. Lea ne peut s'empêcher de penser à un acte irraisonné de l'ex-mari de Barbara</desc>
+    <credits>
+      <actor> Hannelore Elsner </actor>
+      <actor> Karlheinz Lemken </actor>
+      <actor> Thomas Scharff </actor>
+      <actor> Walter Renneisen </actor>
+    </credits>
+    <date>2006</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">policier</category>
+    <length units="minutes">255</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205171500 +0100" stop="20100205180500 +0100" channel="C2.telepoche.com">
+    <title>Rex</title>
+    <sub-title>Le défi</sub-title>
+    <desc lang="fr">Un homme qui fume une cigarette à sa fenêtre est témoin d'une agression. L'entendant donner l'alerte, une jeune femme blonde en pousse une autre dans le coffre d'une voiture et disparaît...</desc>
+    <credits>
+      <actor> Peter Hajek </actor>
+      <actor> Peter Moser </actor>
+      <actor> Alexander Pschill </actor>
+      <actor> Elke Winkens </actor>
+      <actor> Gerhard Zemann </actor>
+      <actor> Martin Weinek </actor>
+      <actor> Gedeon Burkhard </actor>
+      <actor> Heinz Weixelbraun </actor>
+      <actor> Fritz Muliar </actor>
+      <actor> Wolf Bachofner </actor>
+      <actor> Heinrich Schweiger </actor>
+      <actor> Daniel Wagner </actor>
+      <actor> Teresa Harder </actor>
+      <actor> Johann Nikolussi </actor>
+      <actor> Hans Harapat </actor>
+      <actor> Veronika Polly </actor>
+      <actor> Chanda Vanderhart </actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">policier</category>
+    <length units="minutes">315</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205181000 +0100" stop="20100205185500 +0100" channel="C2.telepoche.com">
+    <title>En toutes lettres</title>
+    <desc lang="fr">A mi-chemin entre un jeu et un divertissement, «En toutes lettres» met aux prises deux candidats, chacun épaulé par deux people. Les épreuves portent sur des notions de vocabulaire, d'orthographe ou encore de genre. «On essaye de faire de la gymnastique autour des mots de la langue française, précise Julien Courbet, l'animateur. Ce jeu est aussi un prétexte pour rigoler avec les invités»</desc>
+    <credits></credits>
+    <date>2010</date>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">370</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205190000 +0100" stop="20100205194500 +0100" channel="C2.telepoche.com">
+    <title>N'oubliez pas les paroles</title>
+    <desc lang="fr">Dans ce jeu musical, tous les jours, les candidats peuvent gagner jusqu'à 100 000 ! Ils doivent connaître les plus grands standards de la chanson française d'hier à aujourd'hui. Les participants chantent en karaoké avec un orchestre live, quand les paroles s'arrêtent, pour gagner, ils ne doivent pas oublier les paroles ! Un défi à partager entre amis ou en famille</desc>
+    <credits></credits>
+    <date>2010</date>
+    <category lang="fr">jeu</category>
+    <length units="hours">7</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205200000 +0100" stop="20100205202800 +0100" channel="C2.telepoche.com">
+    <title>Journal</title>
+    <date>2010</date>
+    <category lang="fr">journal</category>
+    <length units="hours">8</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205203500 +0100" stop="20100205222000 +0100" channel="C2.telepoche.com">
+    <title>Entre deux eaux</title>
+    <desc lang="fr">Alors qu'elle tente de faire face au mal de vivre qui la ronge et qui l'a fait sombrer dans l'alcool, Alice Barma, commandant d'un groupe de police criminelle au sein du 36, se retrouve confrontée à deux problèmes. Louis Cohen, l'homme auprès duquel elle a tout appris, qui la soutient et avec qui elle travaille depuis plus de 20 ans, se fait assassiner. Carmen Forestier, la fille du procureur Boussier, est affectée au service de Barma par le commissaire divisionnaire Montigny, avec qui elle entretient des relations plus que détestables. Un climat de délation et de suspicion s'installe dans le groupe</desc>
+    <credits>
+      <actor> Michaëla Watteaux </actor>
+      <actor> Mathieu Masmondet </actor>
+      <actor> Hélène De Saint-Père </actor>
+      <actor> Sophie Quinton </actor>
+      <actor> François Marthouret </actor>
+      <actor> Jean-Baptiste Puech </actor>
+      <actor> Khalid Maadour </actor>
+      <actor> Sylvie Granotier </actor>
+      <actor> Laurent Claret </actor>
+      <actor> Christophe Odent </actor>
+      <actor> Eric Naggar </actor>
+      <actor> Fabrice Michel </actor>
+      <actor> Djibril Pavadé </actor>
+      <actor> Alexia Quintin </actor>
+      <actor> Vincent Jouan </actor>
+      <actor> Miguel Ferreira </actor>
+      <actor> Yann Le Nivet </actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">téléfilm</category>
+    <category lang="fr">thriller</category>
+    <length units="minutes">105</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205222000 +0100" stop="20100205230500 +0100" channel="C2.telepoche.com">
+    <title>Verdict</title>
+    <sub-title>L'affaire Bremand et Boulvais</sub-title>
+    <desc lang="fr">«L'affaire Brémand et Boulvais». En 2006, devant un immeuble du centre-ville de Belfort, un ancien militaire est abattu de plusieurs coups de fusil. Le tueur, le visage dissimulé par une cagoule, s'enfuit</desc>
+    <credits></credits>
+    <date>2008</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">620</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205230500 +0100" stop="20100206003000 +0100" channel="C2.telepoche.com">
+    <title>Vous aurez le dernier mot !</title>
+    <desc lang="fr">Un magazine culturel qui alterne débats sur des problèmes de société, rencontres avec des artistes, revue des presse et séquences courtes, qui laissent place à l'humour. En fin d'émission, en plateau, la parole est donnée aux spectateurs</desc>
+    <credits></credits>
+    <date>2010</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">culturel</category>
+    <length units="minutes">85</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206014500 +0100" stop="20100206032000 +0100" channel="C2.telepoche.com">
+    <title>Faites entrer l'accusé</title>
+    <sub-title>Rezala, tueur des trains</sub-title>
+    <desc lang="fr">Sid Ahmed Rezala avait vingt ans et un sourire ravageur. Mais s'il a fait la Une des journaux, c'est qu'il était poursuivi par toutes les polices d'Europe pour le meurtre de trois femmes qu'il aurait tuées, en l'espace de quelques semaines, à la fin de l'année 1999. Trois meurtres pour lesquels il ne sera jamais jugé. En retraçant le parcours et la folle cavale de Rezala, Faites entrer l'accusé met en lumière une affaire émaillée de ratages policiers, qui a suscité polémiques et psychose médiatique. 13 décembre 1999, gare de Douai, Corinne Caillaux et son fils montent dans le train de nuit Calais-Vintimille</desc>
+    <credits></credits>
+    <category lang="fr">magazine</category>
+    <category lang="fr">reportage</category>
+    <length units="minutes">95</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206032000 +0100" stop="20100206041500 +0100" channel="C2.telepoche.com">
+    <title>Toute une histoire</title>
+    <desc lang="fr">«Toute une histoire» est plus une émission de conversation que de débat : Jean-Luc Delarue ne reçoit pas plus de trois invités principaux par émission et est assis à leur côté, sur un plateau plutôt intimiste qui favorise la proximité, l'échange et la confidence. L'histoire des invités se révèle au fil des reportages et des conversations avec Jean-Luc Delarue</desc>
+    <credits></credits>
+    <date>2009</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">société</category>
+    <length units="minutes">200</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205041000 +0100" stop="20100205044500 +0100" channel="C3.telepoche.com">
+    <title>Questions pour un champion</title>
+    <desc lang="fr">Quatre, trois, puis deux candidats s'affrontent dans ce jeu de culture générale, où la rapidité d'esprit est de mise</desc>
+    <credits></credits>
+    <category lang="fr">jeu</category>
+    <length units="minutes">250</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205044500 +0100" stop="20100205053500 +0100" channel="C3.telepoche.com">
+    <title>Duo de maîtres</title>
+    <sub-title>Allergie</sub-title>
+    <desc lang="fr">Felix Edel dirige un petit cabinet d'avocats dans le quartier du Prenzlauer Berg, à Berlin. Il assure la défense de Klaus Falck dont l'hôtel a été ruiné par la négligence d'une entreprise de tuyauterie</desc>
+    <credits>
+      <actor> Christoph M. Ohrt </actor>
+      <actor> Rebecca Immanuel </actor>
+      <actor> Isabel Tuengerthal </actor>
+      <actor> Hasan Ali Mete </actor>
+      <actor> Barbara Demmer </actor>
+      <actor> Luc Feit </actor>
+    </credits>
+    <date>2005</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">comédie</category>
+    <length units="minutes">285</length>
+  </programme>
+  <programme start="20100205053500 +0100" stop="20100205060000 +0100" channel="C3.telepoche.com">
+    <title>Les matinales</title>
+    <category lang="fr">magazine</category>
+    <category lang="fr">actualité</category>
+    <length units="minutes">335</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205060000 +0100" stop="20100205064500 +0100" channel="C3.telepoche.com">
+    <title>Euronews</title>
+    <desc lang="fr">Actualités internationales. Rubriques : journal - météo - revue de presse - cinéma - culture</desc>
+    <category lang="fr">information</category>
+    <length units="hours">6</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205064500 +0100" stop="20100205084500 +0100" channel="C3.telepoche.com">
+    <title>Ludo</title>
+    <desc lang="fr">Au sommaire : Garfield &amp; cie. «Maman Garfield», «Comme chat et chien» - Samson et néon. «Samson est Néon» - Le professeur Gamberge</desc>
+    <category lang="fr">jeunesse</category>
+    <category lang="fr">magazine</category>
+    <length units="hours">2</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205084500 +0100" stop="20100205091500 +0100" channel="C3.telepoche.com">
+    <title>C'est pas sorcier</title>
+    <sub-title>Tous à la neige</sub-title>
+    <desc lang="fr">Direction la vallée de Chamonix pour une émission spécialement consacrée à la montagne. Nos sorciers expérimentent les différents types de glisse : snowboard accompagné de quelques figures acrobatiques, hors piste en compagnie d'un guide de haute montagne, leçon de ski avec Luc Alphand, triple vainqueur de la coupe du monde de descente entre 1995 et 1997, course folle de bobsleigh et enfin une expédition jusqu'au sommet du Mont-Blanc afin de tester les effets de l'altitude sur le corps humain</desc>
+    <credits></credits>
+    <category lang="fr">magazine</category>
+    <category lang="fr">scientifique</category>
+    <length units="minutes">525</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205091500 +0100" stop="20100205101000 +0100" channel="C3.telepoche.com">
+    <title>Des histoires et des vies</title>
+    <sub-title>La tentation de Dunkerque</sub-title>
+    <desc lang="fr">En provenance de la Bretagne, un groupe de personnes handicapées travaillant dans un CAT (Centre d'Aide par le Travail) se rend au carnaval de Dunkerque. Ils y sont accueillis par les «Zot'ches», associations philanthropiques qui animent le carnaval. Cette aventure humaine est l'occasion de restituer la fête dans sa beauté tonitruante mais aussi dans son aspect le plus humain : celui d'une profonde et ancienne solidarité humaine. L'échange qui se crée permet de porter un autre regard sur le carnaval et sur les handicapés, enfin affranchis du regard des autres</desc>
+    <credits></credits>
+    <date>2010</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">555</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205101000 +0100" stop="20100205103500 +0100" channel="C3.telepoche.com">
+    <title>Côté jardin</title>
+    <desc lang="fr">«Côté Jardin», ce sont des rencontres avec des personnalités de l'univers des jardins en France comme à l'étranger et des prétextes à la découverte de lieux ou de problématiques exceptionnels</desc>
+    <credits>
+      <actor> Franck Prost </actor>
+      <actor> Frédéric Pautz </actor>
+    </credits>
+    <date>2010</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">jardinage</category>
+    <length units="minutes">610</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205103500 +0100" stop="20100205111000 +0100" channel="C3.telepoche.com">
+    <title>Côté cuisine</title>
+    <desc lang="fr">Le chef : Gérard Vié. La recette : «Le cassoulet»</desc>
+    <credits>
+      <actor> Gérard Vié </actor>
+    </credits>
+    <date>2010</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">culinaire</category>
+    <length units="minutes">635</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205111000 +0100" stop="20100205113500 +0100" channel="C3.telepoche.com">
+    <title>Plus belle la vie</title>
+    <desc lang="fr">Marie joue décidemment un jeu trouble. Quant à Johanna, elle pousse Wanda à aller très loin. De son côté, Thomas prend sur lui et tente d'apaiser les tensions au bar</desc>
+    <credits>
+      <actor> Bénédicte Achard </actor>
+      <actor> Georges Desmouceaux </actor>
+      <actor> Magaly Richard Serrano </actor>
+      <actor> Michel Cordes </actor>
+      <actor> Cécilia Hornus </actor>
+      <actor> Thierry Ragueneau </actor>
+      <actor> Dounia Coesens </actor>
+      <actor> Sylvie Flepp </actor>
+      <actor> Geoffrey Sauveaux </actor>
+      <actor> Ambroise Michel </actor>
+      <actor> Serge Dupire </actor>
+      <actor> Aurélie Vaneck </actor>
+      <actor> Rebecca Hampton </actor>
+      <actor> Pierre Martot </actor>
+      <actor> Anne Décis </actor>
+      <actor> Fabienne Carat </actor>
+      <actor> Virgile Bayle </actor>
+      <actor> Thibault Vaneck </actor>
+      <actor> Pierre Marlot </actor>
+      <actor> Laurent Kerusoré </actor>
+      <actor> Laëtitia Milot </actor>
+      <actor> Valérie Baurens </actor>
+      <actor> Alexandre Fabre </actor>
+      <actor> Hélène Médigue </actor>
+      <actor> Laure Sirieix </actor>
+      <actor> Audric Chapus </actor>
+      <actor> Juliette Chêne </actor>
+      <actor> Elodie Varlet </actor>
+      <actor> Ludovic Baude </actor>
+      <actor> Sofiane Belmouden </actor>
+      <actor> Franck Borde </actor>
+      <actor> Colette Renard </actor>
+      <actor> Coline D'Inca </actor>
+      <actor> Jean-Charles Chagachbanian </actor>
+      <actor> Blandine Bellavoir </actor>
+      <actor> Nicolas Herman </actor>
+      <actor> Julien Oliveri </actor>
+      <actor> Stéphane Henon </actor>
+      <actor> Pascale Roberts </actor>
+      <actor> Boris de Mourzitch </actor>
+      <actor> Virginie Ledieu </actor>
+      <actor> Victoire Belezy </actor>
+      <actor> Guillaume Leserman </actor>
+      <actor> Robert Castel </actor>
+      <actor> Christine Lemler </actor>
+      <actor> Corinne Le Poulain </actor>
+      <actor> Arnaud Léonard </actor>
+      <actor> Ibtissem Guerda </actor>
+      <actor> Richard Guedj </actor>
+      <actor> Marc Pistolesi </actor>
+      <actor> Amalric Gérard </actor>
+      <actor> Mathilde Lebrequier </actor>
+      <actor> Jean-Luc Borras </actor>
+      <actor> Jean-Christophe Bretignere </actor>
+      <actor> Juliette Wiatr </actor>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">feuilleton</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">670</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205120000 +0100" stop="20100205122500 +0100" channel="C3.telepoche.com">
+    <title>Edition régionale</title>
+    <category lang="fr">journal</category>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205122500 +0100" stop="20100205125500 +0100" channel="C3.telepoche.com">
+    <title>Journal national</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">25</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205130000 +0100" stop="20100205133000 +0100" channel="C3.telepoche.com">
+    <title>Drôle de 13 h</title>
+    <desc lang="fr">L'humour et la bonne humeur sont les maîtres mots de ce rendez-vous quotidien. Du lundi au vendredi, Audrey Chauveau offre aux téléspectateurs une bonne dose de divertissement tout en les informant sur l'actualité de celles et ceux qui les font rire. «Drôle de 13h» a pour ambition de remplir une promesse ; celle pour les téléspectateurs de les détendre, de les faire sourire et rire de bon coeur grâce à la diffusion d'archives, de caméras cachées, extraits de sketches, perles du Net qui font le buzz, bêtisiers, sujets sur celles et ceux qui marquent ou ont marqué de leur humour l'histoire de la télévision, de la publicité, du théatre ou du cinéma</desc>
+    <date>2010</date>
+    <category lang="fr">divertissement</category>
+    <length units="hours">1</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205134500 +0100" stop="20100205145000 +0100" channel="C3.telepoche.com">
+    <title>Inspecteur Derrick</title>
+    <sub-title>L'affaire Druse</sub-title>
+    <desc lang="fr">Bernd Druse, un jeune photographe, a été retrouvé mort dans une cabine téléphonique, à 3 heures du matin. D'après l'enquête, il aurait été étranglé, non pas dans la cabine, mais dans sa voiture</desc>
+    <credits>
+      <actor> Herbert Reinecker </actor>
+      <actor> Horst Tappert </actor>
+      <actor> Fritz Wepper </actor>
+      <actor> Birgit Doll </actor>
+      <actor> Karin Anselm </actor>
+      <actor> Charles Brauer </actor>
+      <actor> Jochen Horst </actor>
+      <actor> Willy Schäfer </actor>
+    </credits>
+    <date>1988</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">policier</category>
+    <length units="minutes">65</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205145500 +0100" stop="20100205163500 +0100" channel="C3.telepoche.com">
+    <title>L'instit</title>
+    <sub-title>Le concerto pour Guillaume</sub-title>
+    <desc lang="fr">Guillaume, 10 ans, est un enfant «difficile» : insolent, turbulent, sauvage, rebelle. Mais cette agressivité toujours à fleur de peau n'est rien d'autre que la manifestation visible d'une souffrance cachée. Guillaume est un enfant battu. Ceux qui savent se taisent, par peur ou par lâcheté</desc>
+    <credits>
+      <actor> Gilles Gérardin </actor>
+      <actor> Gérard Klein </actor>
+      <actor> Robinson Stévenin </actor>
+      <actor> Didier Sauvegrain </actor>
+      <actor> Dominique Rousseau </actor>
+      <actor> Ginette Garcin </actor>
+      <actor> Thomas Godet </actor>
+      <actor> Salomé Stévenin </actor>
+      <actor> Isabelle Bules </actor>
+      <actor> Gilles Janeyrand </actor>
+      <actor> Stephan Meldegg </actor>
+    </credits>
+    <date>1995</date>
+    <category lang="fr">téléfilm</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">100</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205164000 +0100" stop="20100205170500 +0100" channel="C3.telepoche.com">
+    <title>Slam</title>
+    <desc lang="fr">Accessible à tous les publics, «Slam» va faire la joie des amoureux des mots, des férus de quiz et des adeptes des mots fléchés, en mixant tous les genres, de la géographie aux mathématiques, en passant par la chimie... et bien sûr le français. Au menu : vivacité d'esprit, humour, vocabulaire, orthographe et bien sûr culture générale !!</desc>
+    <date>2010</date>
+    <category lang="fr">jeu</category>
+    <length units="minutes">280</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205171500 +0100" stop="20100205175000 +0100" channel="C3.telepoche.com">
+    <title>Des chiffres et des lettres</title>
+    <desc lang="fr">Une émission culte fondée sur la connaissance du vocabulaire avec «le mot le plus long» et sur les compétences en calcul avec «le compte est bon»</desc>
+    <credits>
+      <actor> Armand Jammot </actor>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="minutes">315</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205175000 +0100" stop="20100205182500 +0100" channel="C3.telepoche.com">
+    <title>Questions pour un champion</title>
+    <desc lang="fr">Quatre, trois, puis deux candidats s'affrontent dans ce jeu de culture générale, où la rapidité d'esprit est de mise</desc>
+    <credits></credits>
+    <category lang="fr">jeu</category>
+    <length units="minutes">350</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205190000 +0100" stop="20100205192800 +0100" channel="C3.telepoche.com">
+    <title>Journal régional</title>
+    <category lang="fr">journal</category>
+    <length units="hours">7</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205192800 +0100" stop="20100205195800 +0100" channel="C3.telepoche.com">
+    <title>Journal national</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">448</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205201000 +0100" stop="20100205203500 +0100" channel="C3.telepoche.com">
+    <title>Plus belle la vie</title>
+    <desc lang="fr">Guillaume va se souvenir longtemps de son quarantième anniversaire. Victoire pousse Thomas à bout sans même s'en rendre compte. Quant à Blanche, est-elle vraiment sincère lorsqu'elle rassure sa fille?</desc>
+    <credits>
+      <actor> Michel Cordes </actor>
+      <actor> Cécilia Hornus </actor>
+      <actor> Dounia Coesens </actor>
+      <actor> Sylvie Flepp </actor>
+      <actor> Ambroise Michel </actor>
+      <actor> Serge Dupire </actor>
+      <actor> Aurélie Vaneck </actor>
+      <actor> Rebecca Hampton </actor>
+      <actor> Anne Décis </actor>
+      <actor> Fabienne Carat </actor>
+      <actor> Virgile Bayle </actor>
+      <actor> Thibault Vaneck </actor>
+      <actor> Pierre Marlot </actor>
+      <actor> Laurent Kerusoré </actor>
+      <actor> Laëtitia Milot </actor>
+      <actor> Valérie Baurens </actor>
+      <actor> Hélène Médigue </actor>
+      <actor> Audric Chapus </actor>
+      <actor> Elodie Varlet </actor>
+      <actor> Ludovic Baude </actor>
+      <actor> Franck Borde </actor>
+      <actor> Colette Renard </actor>
+      <actor> Coline D'Inca </actor>
+      <actor> Jean-Charles Chagachbanian </actor>
+      <actor> Blandine Bellavoir </actor>
+      <actor> Nicolas Herman </actor>
+      <actor> Julien Oliveri </actor>
+      <actor> Stéphane Henon </actor>
+      <actor> Pascale Roberts </actor>
+      <actor> Boris de Mourzitch </actor>
+      <actor> Virginie Ledieu </actor>
+      <actor> Victoire Belezy </actor>
+      <actor> Guillaume Leserman </actor>
+      <actor> Robert Castel </actor>
+      <actor> Christine Lemler </actor>
+      <actor> Corinne Le Poulain </actor>
+      <actor> Arnaud Léonard </actor>
+      <actor> Ibtissem Guerda </actor>
+      <actor> Richard Guedj </actor>
+      <actor> Marc Pistolesi </actor>
+      <actor> Amalric Gérard </actor>
+      <actor> Mathilde Lebrequier </actor>
+      <actor> Jean-Luc Borras </actor>
+      <actor> Jean-Christophe Bretignere </actor>
+      <actor> Juliette Wiatr </actor>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">feuilleton</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">490</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205203500 +0100" stop="20100205222500 +0100" channel="C3.telepoche.com">
+    <title>Thalassa : l'expédition</title>
+    <sub-title>Voyage à Djibouti</sub-title>
+    <desc lang="fr">Passage maritime, port militaire, porte de l'Ethiopie, Djibouti c'est une petite république indépendante située à l'entrée de la Mer Rouge, dans cette corne de l'Afrique chargée d'histoire et de conflits. Entre histoire et aventure, Thalassa nous raconte Djibouti, ses caravanes de sel, ses nomades, ses illustres et poétiques visiteurs, son port débordant d'activités. Au sommaire : «Sur la route des aventuriers de la Mer Rouge» - «Un confetti français» - «Retour au pays des pirates» - «Djibouti, au bord de l'asphyxie» - «Francesca fille des coraux» - L'aventure de Tara</desc>
+    <date>2010</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">mer</category>
+    <length units="minutes">110</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205223000 +0100" stop="20100205225500 +0100" channel="C3.telepoche.com">
+    <title>Soir 3</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">18630</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205225500 +0100" stop="20100206000000 +0100" channel="C3.telepoche.com">
+    <title>Vie privée, vie publique, l'hebdo</title>
+    <desc lang="fr">Mireille Dumas nous donne rendez-vous chaque vendredi dans «Vie privée Vie publique, l'hebdo». L'animatrice qui a depuis longtemps question à tout, va jusqu'au bout de la vérité de ses invités, connus ou anonymes</desc>
+    <credits>
+      <actor> Anny Duperey </actor>
+      <actor> Sara Giraudeau </actor>
+    </credits>
+    <category lang="fr">magazine</category>
+    <category lang="fr">société</category>
+    <length units="minutes">65</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206001000 +0100" stop="20100206010500 +0100" channel="C3.telepoche.com">
+    <title>Chabada</title>
+    <sub-title>Spéciale années 80</sub-title>
+    <desc lang="fr">Un rendez-vous musical, novateur et inattendu, pour partager des moments privilégiés avec des artistes de talent dans une ambiance intime et chaleureuse. Trois invités, trois générations d'artistes rendent hommage aux plus grands noms de la chanson française, d'hier comme d'aujourd'hui. Les stars chantent en acoustique ou en «live» des versions inédites des plus belles chansons françaises, entourées de musiciens de talent. Ensemble, ils offrent des reprises, des improvisations et des duos surprenants. Les invités : Philippe Lavil, Julie Pietri, Christophe Willem et Jean-Luc Lahaye</desc>
+    <credits>
+      <actor> Philippe Lavil </actor>
+      <actor> Julie Piétri </actor>
+      <actor> Christophe Willem </actor>
+      <actor> Jean-Luc Lahaye </actor>
+    </credits>
+    <date>2010</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">musical</category>
+    <length units="minutes">10</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206010500 +0100" stop="20100206025500 +0100" channel="C3.telepoche.com">
+    <title>Vu du ciel</title>
+    <sub-title>Pour que vivent les grands fleuves</sub-title>
+    <desc lang="fr">Artères de notre planète, les grands fleuves sont menacés. Certains sont presque à sec tandis que d'autres sont détournés, coupés par des barrages. D'autres encore sont pollués. Notre planète en est malade. Pourquoi ? Comment faire pour que cela change ? Yann-Arthus Bertrand part aux quatre coins du monde afin de nous alerter sur les menaces qui pèsent sur les ressources en eau tout en nous montrant qu'il existe aussi des solutions pour sauvegarder ces richesses naturelles</desc>
+    <credits></credits>
+    <date>2008</date>
+    <category lang="fr">documentaire</category>
+    <category lang="fr">découverte</category>
+    <length units="minutes">110</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206025500 +0100" stop="20100206032000 +0100" channel="C3.telepoche.com">
+    <title>Soir 3</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">17455</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206035000 +0100" stop="20100206041000 +0100" channel="C3.telepoche.com">
+    <title>Drôle de 13 h</title>
+    <desc lang="fr">L'humour et la bonne humeur sont les maîtres mots de ce rendez-vous quotidien. Du lundi au vendredi, Audrey Chauveau offre aux téléspectateurs une bonne dose de divertissement tout en les informant sur l'actualité de celles et ceux qui les font rire. «Drôle de 13h» a pour ambition de remplir une promesse ; celle pour les téléspectateurs de les détendre, de les faire sourire et rire de bon coeur grâce à la diffusion d'archives, de caméras cachées, extraits de sketches, perles du Net qui font le buzz, bêtisiers, sujets sur celles et ceux qui marquent ou ont marqué de leur humour l'histoire de la télévision, de la publicité, du théatre ou du cinéma</desc>
+    <date>2010</date>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">230</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205044500 +0100" stop="20100205053500 +0100" channel="C4.telepoche.com">
+    <title>Comment j'ai tué Pierre Goldman</title>
+    <desc lang="fr">Pierre Goldman, révolutionnaire braqueur, héros maudit de l'extrême gauche des années 1970, a été assassiné en plein Paris. Ses meurtriers n'ont jamais été retrouvés par la police. Pour la première fois, l'un des assassins témoigne... Le 20 septembre 1979, le militant d'extrême gauche Pierre Goldman a été abattu en plein Paris par un commando de quatre hommes armés. Une semaine plus tard, 20 000 personnes ont défilé pour ses obsèques. Une foule immense, à la mesure du mythe qu'était devenu Pierre Goldman. Car pour une bonne partie de la gauche française, Pierre Goldman était un héros, une sorte de Che Guevara hexagonal</desc>
+    <credits></credits>
+    <date>2009</date>
+    <category lang="fr">documentaire</category>
+    <category lang="fr">société</category>
+    <length units="minutes">285</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205054500 +0100" stop="20100205060500 +0100" channel="C4.telepoche.com">
+    <title>Pas de programme</title>
+    <category lang="fr">non precise</category>
+    <length units="minutes">345</length>
+  </programme>
+  <programme start="20100205061000 +0100" stop="20100205065500 +0100" channel="C4.telepoche.com">
+    <title>Que la force soit avec vous</title>
+    <desc lang="fr">Catch américain. Le spectacle sera au rendez-vous de ces rencontres événements, au cours desquelles des athlètes au physique irréprochable réaliseront des prouesses plus surprenantes et spectaculaires les unes que les autres</desc>
+    <credits>
+      <actor> Rodolphe Pirès </actor>
+      <actor> Philippe Velghe </actor>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">sportif</category>
+    <length units="minutes">370</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205065500 +0100" stop="20100205082800 +0100" channel="C4.telepoche.com">
+    <title>La matinale</title>
+    <desc lang="fr">Pour sa deuxième saison à la tête de LA MATINALE, Maïtena Biraben réveille la France entière avec peps et bonne humeur. En l'espace d'une saison, ce chef d'orchestre a su insuffler son énergie et sa curiosité à ce rendez-vous matinal. Actu générale, info politique et culturelle, univers des médias : rien n'est laissé de côté dans cette MATINALE survitaminée</desc>
+    <credits>
+      <actor> Elé Asu </actor>
+      <actor> Charline Roux </actor>
+      <actor> Léon Mercadet </actor>
+      <actor> Gilles Delafon </actor>
+      <actor> Clara Dupont-Monod </actor>
+      <actor> Christophe Ono-Dit-Biot </actor>
+      <actor> Emmanuelle Talon </actor>
+      <actor> Sylvère-Henry Cissé </actor>
+      <actor> Cyrille Eldin </actor>
+      <actor> Geooffroy Roux De Bézieux </actor>
+      <actor> Emmanuel Laurentin </actor>
+      <actor> Xavier Leherpeur </actor>
+      <actor> Rokhaya Diallo </actor>
+      <actor> Guillaume Erner </actor>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">information</category>
+    <length units="minutes">93</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205083000 +0100" stop="20100205091000 +0100" channel="C4.telepoche.com">
+    <title>Flashpoint</title>
+    <desc lang="fr">Armée, une jeune femme attaque une station-service et prend des clients en otages. Par ce geste désespéré, elle tente de sauver son fils des griffes d'un père, gourou d'une secte, sur le point de pousser ses ouailles à commettre un suicide collectif. L'équipe de la SRU doit intervenir au plus vite</desc>
+    <credits>
+      <actor> Hugh Dillon </actor>
+      <actor> Enrico Colantoni </actor>
+      <actor> Michael Cram </actor>
+      <actor> Sergio Di Zio </actor>
+      <actor> Mark Taylor </actor>
+      <actor> Amy Jo Johnson </actor>
+      <actor> David Paetkau </actor>
+      <actor> Ruth Marshall </actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">policier</category>
+    <length units="minutes">510</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205091000 +0100" stop="20100205095500 +0100" channel="C4.telepoche.com">
+    <title>Flashpoint</title>
+    <desc lang="fr">Le sergent Gregory Parker est pris en otage par un dealer de drogue. Il semblerait que cela ait à voir avec une affaire datant d'une dizaine d'années. Peu à peu, le passé du sergent refait surface</desc>
+    <credits>
+      <actor> Hugh Dillon </actor>
+      <actor> Enrico Colantoni </actor>
+      <actor> Michael Cram </actor>
+      <actor> Sergio Di Zio </actor>
+      <actor> Mark Taylor </actor>
+      <actor> Amy Jo Johnson </actor>
+      <actor> David Paetkau </actor>
+      <actor> Ruth Marshall </actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">policier</category>
+    <length units="minutes">550</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205095500 +0100" stop="20100205104000 +0100" channel="C4.telepoche.com">
+    <title>Cold Case</title>
+    <sub-title>Un officier a terre</sub-title>
+    <credits>
+      <actor> Kathryn Morris </actor>
+      <actor> John Finn </actor>
+      <actor> Jeremy Ratchford </actor>
+      <actor> Thom Barry </actor>
+      <actor> Danny Pino </actor>
+      <actor> Tracie Thoms </actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">policier</category>
+    <length units="minutes">595</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205104000 +0100" stop="20100205121000 +0100" channel="C4.telepoche.com">
+    <title>Insoupçonnable</title>
+    <desc lang="fr">La jeune et ambitieuse Anna Travis enquête sur sa première affaire criminelle. Depuis huit ans, un tueur en série échappe aux policiers les plus expérimentés. Sa cible : des prostituées droguées. Mais sa septième victime ne semble pas correspondre au profil : il s'agit d'une jeune étudiante. Persévérante, Anna finit par découvrir un indice la menant à un suspect</desc>
+    <credits>
+      <actor> Lynda La Plante </actor>
+      <actor> Kelly Reilly </actor>
+      <actor> Ciarán Hinds </actor>
+      <actor> Jason Durr </actor>
+      <actor> Shaun Dingwall </actor>
+      <actor> Jill Baker </actor>
+      <actor> Amy Bayliss </actor>
+      <actor> Amanda Lawrence </actor>
+      <actor> Thusita Jayasundera </actor>
+      <actor> Malcolm Storry </actor>
+      <actor> Nadia Cameron-Blakey </actor>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">téléfilm</category>
+    <category lang="fr">thriller</category>
+    <length units="minutes">90</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205122000 +0100" stop="20100205140000 +0100" channel="C4.telepoche.com">
+    <title>L'édition spéciale</title>
+    <desc lang="fr">Dont: Infos présentées par Emilie Besse, zapping</desc>
+    <credits>
+      <actor> Chris Esquerre </actor>
+      <actor> Caroline Aelion </actor>
+      <actor> Daphné Bürki </actor>
+      <actor> Ariel Wizman </actor>
+      <actor> Anne-Elisabeth Lemoine </actor>
+      <actor> Nicolas Domenach </actor>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">actualité</category>
+    <length units="minutes">100</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205140000 +0100" stop="20100205144000 +0100" channel="C4.telepoche.com">
+    <title>Dirty Sexy Money</title>
+    <sub-title>L'attentat</sub-title>
+    <desc lang="fr">La fusillade a fait une victime: Carmelita est morte. Et tandis que Chase est dans le coma, les Darling attendent avec fébrilité le moment où les médecins débrancheront la prise... Brian et Andrea mettent au clair leur relation tandis que Nick et Lisa se battent pour la garde de Kiki</desc>
+    <credits>
+      <actor> Peter Krause </actor>
+      <actor> Donald Sutherland </actor>
+      <actor> Jill Clayburgh </actor>
+      <actor> William Baldwin </actor>
+      <actor> Blair Underwood </actor>
+      <actor> Lucy Liu </actor>
+      <actor> Natalie Zea </actor>
+      <actor> Samaire Armstrong </actor>
+      <actor> Seth Gabel </actor>
+      <actor> Glenn Fitzgerald </actor>
+      <actor> Will Shadley </actor>
+      <actor> Zoé McLellan </actor>
+      <actor> Bellamy Young </actor>
+      <actor> Chloe Moretz </actor>
+      <actor> Daniel Cosgrove </actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="hours">2</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205144000 +0100" stop="20100205152500 +0100" channel="C4.telepoche.com">
+    <title>Dirty Sexy Money</title>
+    <sub-title>Entre la vie et la mort</sub-title>
+    <desc lang="fr">Jeremy a perdu la mémoire en se cognant violemment la tête lors de l'attentat contre son frère Patrick ; Chase est dans le coma et Patrick pleure Carmelita, atteinte mortellement ce jour-là par une balle tirée par Chase. En plein divorce, Nick essaie d'obtenir la garde partagée de Kiki malgré les réticences de Lisa. Tripp tente de faire pression pour débrancher l'appareil respiratoire de Chase, mais il va devoir compter avec Janine, la femme de ce dernier, fermement décidée à le maintenir, même artificiellement, en vie</desc>
+    <credits>
+      <actor> Peter Krause </actor>
+      <actor> Donald Sutherland </actor>
+      <actor> Jill Clayburgh </actor>
+      <actor> William Baldwin </actor>
+      <actor> Blair Underwood </actor>
+      <actor> Lucy Liu </actor>
+      <actor> Natalie Zea </actor>
+      <actor> Samaire Armstrong </actor>
+      <actor> Seth Gabel </actor>
+      <actor> Glenn Fitzgerald </actor>
+      <actor> Will Shadley </actor>
+      <actor> Zoé McLellan </actor>
+      <actor> Bellamy Young </actor>
+      <actor> Chloe Moretz </actor>
+      <actor> Daniel Cosgrove </actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">160</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205152500 +0100" stop="20100205154500 +0100" channel="C4.telepoche.com">
+    <title>Surprises</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">205</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205154500 +0100" stop="20100205162500 +0100" channel="C4.telepoche.com">
+    <title>L'effet papillon</title>
+    <desc lang="fr">L'effet papillon propose un regard différent sur le monde en s'intéressant à l'origine souvent cachée d'un événement et à ses suites inattendues</desc>
+    <date>2010</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">reportage</category>
+    <length units="minutes">225</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205162500 +0100" stop="20100205181000 +0100" channel="C4.telepoche.com">
+    <title>Two Lovers</title>
+    <desc lang="fr">New York. Leonard hésite entre suivre son destin et épouser Sandra, la femme que ses parents lui ont choisie ou se rebeller et écouter ses sentiments pour sa nouvelle voisine</desc>
+    <credits>
+      <actor> James Gray </actor>
+      <actor> Ric Menello </actor>
+      <actor> Joaquin Phoenix </actor>
+      <actor> Gwyneth Paltrow </actor>
+      <actor> Vinessa Shaw </actor>
+      <actor> Isabella Rossellini </actor>
+      <actor> Elias Koteas </actor>
+      <actor> John Ortiz </actor>
+      <actor> Bob Ari </actor>
+      <actor> Julie Budd </actor>
+      <actor> Shiran Nicholson </actor>
+      <actor> Samantha Ivers </actor>
+      <actor> Joaquin Baca-Asay </actor>
+      <actor> John Axelrad </actor>
+      <actor> Happy Masse </actor>
+      <actor> Michael Clancy </actor>
+      <actor> Jean-Pierre Vincent </actor>
+      <actor> Donna Gifliotti </actor>
+      <actor> James Gray </actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">film</category>
+    <category lang="fr">drame</category>
+    <length units="minutes">105</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205181500 +0100" stop="20100205184500 +0100" channel="C4.telepoche.com">
+    <title>Les Simpson</title>
+    <sub-title>Une mamie hors la loi</sub-title>
+    <desc lang="fr">Marge oblige Homer et les enfants à regarder la télévision pour qu'ils voient qu'elle a gagné le prix de «L'article le plus drôle». Jaloux, Homer décide d'en trouver un encore plus drôle. En regardant attentivement le journal, il voit un message codé qui lui est destiné. Il se rend au rendez-vous et rencontre sa mère, qui est toujours recherchée par la police</desc>
+    <date>2003</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">animation</category>
+    <length units="minutes">375</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205184500 +0100" stop="20100205190500 +0100" channel="C4.telepoche.com">
+    <title>Le JT de Canal+</title>
+    <desc lang="fr">Depuis septembre 2007 à la tête de ce journal à forte orientation internationale, Florence Dauchez impose son style. Debout face aux téléspectateurs pendant une vingtaine de minutes, la journaliste présente un JT à l'écriture léchée, rigoureuse et loin des sentiers battus. Une approche singulière qui s'exprime également au travers de rubriques comme «Le tour du monde en 80 secondes" commenté par Christophe Tison ou «Le JT des JT" qui propose les ouvertures des JT à l'étranger</desc>
+    <date>2009</date>
+    <category lang="fr">information</category>
+    <length units="minutes">405</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205190500 +0100" stop="20100205195500 +0100" channel="C4.telepoche.com">
+    <title>Le grand journal</title>
+    <desc lang="fr">L'actu, la politique, la société Les acteurs de l'actualité répondent aux questions de Michel Denisot et de son équipe</desc>
+    <credits>
+      <actor> Ariane Massenet </actor>
+      <actor> Jean-Michel Aphatie </actor>
+      <actor> Ali Baddou </actor>
+      <actor> Yann Barthès </actor>
+      <actor> Pauline Lefèvre </actor>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">actualité</category>
+    <length units="minutes">425</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205201000 +0100" stop="20100205205000 +0100" channel="C4.telepoche.com">
+    <title>Le grand journal, la suite</title>
+    <desc lang="fr">Toutes les stars du cinéma et de la musique, mais aussi les découvertes et les phénomènes de demain</desc>
+    <credits>
+      <actor> Ariane Massenet </actor>
+      <actor> Elise Chassaing </actor>
+      <actor> Tania Bruna-Rosso </actor>
+      <actor> Mouloud Achour </actor>
+      <actor> Laurent Weil </actor>
+      <actor> Guillaume Gallienne </actor>
+      <actor> Bruno Donnet </actor>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">actualité</category>
+    <length units="minutes">490</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205205000 +0100" stop="20100205222500 +0100" channel="C4.telepoche.com">
+    <title>Secret défense</title>
+    <desc lang="fr">Chaque jour dans notre pays, mouvements terroristes et services de renseignements se livrent une guerre sans merci au nom d'idéologies que tout oppose</desc>
+    <credits>
+      <actor> Julien Sibony </actor>
+      <actor> Gérard Lanvin </actor>
+      <actor> Vahina Giocante </actor>
+      <actor> Nicolas Duvauchelle </actor>
+      <actor> Simon Abkarian </actor>
+      <actor> Rachida Brakni </actor>
+      <actor> Mehdi Nebbou </actor>
+      <actor> Aurélien Wiik </actor>
+      <actor> Nicolas Marie </actor>
+      <actor> Katia Lewkowicz </actor>
+      <actor> Kamel Belghazi </actor>
+      <actor> Djemel Barek </actor>
+      <actor> Carim Messalti </actor>
+      <actor> Hassam Ghancy </actor>
+      <actor> Salem Kali </actor>
+      <actor> Moussa Maaskri </actor>
+      <actor> Jérôme Alméras </actor>
+      <actor> Pierre Gamet </actor>
+      <actor> Sylvie Landra </actor>
+      <actor> Ambre Samsonetti </actor>
+      <actor> Eric Perron </actor>
+      <actor> Frederique Ney </actor>
+      <actor> Myriam Roger </actor>
+      <actor> Yves Marmion </actor>
+    </credits>
+    <date>2007</date>
+    <category lang="fr">film</category>
+    <category lang="fr">espionnage</category>
+    <length units="minutes">95</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205222500 +0100" stop="20100205232000 +0100" channel="C4.telepoche.com">
+    <title>En bonne intelligence : les espions et le cinéma français</title>
+    <desc lang="fr">Le cinéma français redécouvre le film d'espionnage et réinvestit le monde souterrain régi par la tectonique des intérêts nationaux. Pendant ce temps, dans la vraie vie, depuis que le livre blanc sur la Défense (juin 2008) a érigé le renseignement en priorité stratégique, le monde du secret bouillonne. La réalité commencerait-elle à se faire jour ? Le cinéma veut-il et doit-il rendre compte de cette réalité ? Le peut-il ? Spécialistes, hauts responsables, anciens des services, réalisateurs et comédiens répondent</desc>
+    <credits></credits>
+    <date>2010</date>
+    <category lang="fr">documentaire</category>
+    <category lang="fr">cinéma</category>
+    <length units="minutes">625</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205232000 +0100" stop="20100206005500 +0100" channel="C4.telepoche.com">
+    <title>Espion(s)</title>
+    <desc lang="fr">Après la mort d'un collègue, un jeune homme travaillant au centre de tri des bagages d'un aéroport, est contraint de collaborer avec les services secrets</desc>
+    <credits>
+      <actor> Nicolas Saada </actor>
+      <actor> Guillaume Canet </actor>
+      <actor> Géraldine Pailhas </actor>
+      <actor> Stephen Rea </actor>
+      <actor> Hippolyte Girardot </actor>
+      <actor> Archie Panjabi </actor>
+      <actor> Vincent Regan </actor>
+      <actor> Alexander Siddig </actor>
+      <actor> Jamie Harding </actor>
+      <actor> Hiam Abbass </actor>
+      <actor> Bruno Blairet </actor>
+      <actor> Frédéric Epaud </actor>
+      <actor> Michael Marks </actor>
+      <actor> Alexandre Steiger </actor>
+      <actor> Sebastien Cardinal </actor>
+      <actor> Tarek Khalil </actor>
+      <actor> Satya Dusaugey </actor>
+      <actor> Milanka Brooks </actor>
+      <actor> Cyril Moisson </actor>
+      <actor> Philippe Heissler </actor>
+      <actor> Thomas Robert </actor>
+      <actor> Juliette Welfling </actor>
+      <actor> Thierry François </actor>
+      <actor> Caroline De Vivaise </actor>
+      <actor> Michael Gentile </actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">film</category>
+    <category lang="fr">espionnage</category>
+    <length units="minutes">95</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206010500 +0100" stop="20100206012500 +0100" channel="C4.telepoche.com">
+    <title>Jim Carrey, la rencontre</title>
+    <date>2010</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">cinéma</category>
+    <length units="minutes">65</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206012500 +0100" stop="20100206030000 +0100" channel="C4.telepoche.com">
+    <title>Hockey sur glace</title>
+    <sub-title>Championnat de la NHL</sub-title>
+    <date>2010</date>
+    <category lang="fr">sport</category>
+    <category lang="fr">hockey sur glace</category>
+    <length units="minutes">95</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206030000 +0100" stop="20100206044500 +0100" channel="C4.telepoche.com">
+    <title>I Feel Good !</title>
+    <desc lang="fr">Les Young@Heart forment une chorale à part. Ses membres, âgés de 75 à 93 ans, parcourent le monde pour donner des concerts où ils interprètent, à leur manière, des classiques du rock ou de la pop</desc>
+    <credits>
+      <actor> Jim Armenti </actor>
+      <actor> William E. Arnold Jr. </actor>
+      <actor> Joe Benoit </actor>
+      <actor> Helen Boston </actor>
+      <actor> Louise Canady </actor>
+      <actor> Hannah Beckerman </actor>
+    </credits>
+    <date>2007</date>
+    <category lang="fr">film</category>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">105</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205060000 +0100" stop="20100205070000 +0100" channel="C6.telepoche.com">
+    <title>M6 Music</title>
+    <category lang="fr">musique</category>
+    <category lang="fr">clips</category>
+    <length units="hours">1</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205071500 +0100" stop="20100205080500 +0100" channel="C6.telepoche.com">
+    <title>Disney Kid Club</title>
+    <desc lang="fr">Au sommaire : La maison de Mickey. «Le hoquet de Donald» - Manny et ses outils. «La maman de monsieur Lopart», «Un rongeur encombrant»</desc>
+    <date>2010</date>
+    <category lang="fr">jeunesse</category>
+    <category lang="fr">magazine</category>
+    <length units="minutes">435</length>
+  </programme>
+  <programme start="20100205081000 +0100" stop="20100205083000 +0100" channel="C6.telepoche.com">
+    <title>M6 clips</title>
+    <date>2009</date>
+    <category lang="fr">musique</category>
+    <category lang="fr">clips</category>
+    <length units="minutes">490</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205083500 +0100" stop="20100205095000 +0100" channel="C6.telepoche.com">
+    <title>M6 boutique</title>
+    <desc lang="fr">Une large gamme de produits est proposée dans un éventail de prix. Les articles sont pratiques, modernes et nouveaux</desc>
+    <category lang="fr">magazine</category>
+    <category lang="fr">télé-achat</category>
+    <length units="minutes">75</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205095500 +0100" stop="20100205111500 +0100" channel="C6.telepoche.com">
+    <title>Absolument stars</title>
+    <desc lang="fr">Actualité musicale, infos people, humour, horoscope, sorties ciné, DVD et agenda spectacle</desc>
+    <date>2009</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">actualité</category>
+    <length units="minutes">80</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205111500 +0100" stop="20100205114000 +0100" channel="C6.telepoche.com">
+    <title>Caméra café 2</title>
+    <credits>
+      <actor> Arnaud Ducret </actor>
+      <actor> Yannick Choirat </actor>
+      <actor> Tom Novembre </actor>
+      <actor> Gaëlle Hausermann </actor>
+      <actor> Charline Paul </actor>
+      <actor> Sophie Le Tellier </actor>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">comédie</category>
+    <length units="minutes">11955</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205114000 +0100" stop="20100205124000 +0100" channel="C6.telepoche.com">
+    <title>La petite maison dans la prairie</title>
+    <sub-title>L'incendiaire</sub-title>
+    <desc lang="fr">Lorsque Jonathan Garvey ridiculise Judd Larrabee devant se famille, celui-ci se venge en mettant le feu à la grange des Garvey et en agressant leur jeune fils Andy</desc>
+    <credits>
+      <actor> Michael Landon </actor>
+      <actor> Karen Grassle </actor>
+      <actor> Don «Red» Barry </actor>
+      <actor> Melissa Gilbert </actor>
+      <actor> Melissa Sue Anderson </actor>
+      <actor> Sidney Greenbush </actor>
+      <actor> Arine Archer </actor>
+      <actor> Kevin Hagen </actor>
+      <actor> Matthew Laborteaux </actor>
+      <actor> Lindsay Greenbush </actor>
+      <actor> Victor French </actor>
+      <actor> John Bleifer </actor>
+      <actor> Katherine McGregor </actor>
+      <actor> John Larrabee </actor>
+      <actor> Richard Bull </actor>
+      <actor> Allison Angrim </actor>
+      <actor> Jonathan Gilbert </actor>
+      <actor> Linwood Boomer </actor>
+      <actor> Brenda Turnbaugh </actor>
+      <actor> Wendi Turnbaugh </actor>
+    </credits>
+    <date>1978</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="hours">1</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205125000 +0100" stop="20100205134000 +0100" channel="C6.telepoche.com">
+    <title>La petite maison dans la prairie</title>
+    <sub-title>Espoir</sub-title>
+    <desc lang="fr">Mary annonce soudain qu'elle peut distinguer une petite luminosité dans le noir. L'espoir renaît chez les Ingalls. La cécité de Mary ne serait-elle pas irréversible ?</desc>
+    <credits>
+      <actor> Melissa Sue Anderson </actor>
+      <actor> Melissa Gilbert </actor>
+      <actor> M. Nelson </actor>
+      <actor> Matthew Laborteaux </actor>
+      <actor> Sidney Greenbush </actor>
+      <actor> Michael Landon </actor>
+      <actor> Mariette Hartley </actor>
+      <actor> Arine Archer </actor>
+      <actor> Lindsay Greenbush </actor>
+      <actor> Karen Grassle </actor>
+      <actor> Kevin Hagen </actor>
+      <actor> Victor French </actor>
+      <actor> Merlin Olsen </actor>
+      <actor> Allison Angrim </actor>
+      <actor> Hersha Parady </actor>
+      <actor> Linwood Boomer </actor>
+      <actor> Patrick Laborteaux </actor>
+      <actor> Katherine McGregor </actor>
+      <actor> Brenda Turnbaugh </actor>
+      <actor> Wendi Turnbaugh </actor>
+      <actor> Richard Bull </actor>
+      <actor> Alisson Angrim </actor>
+      <actor> Jonathan Gilbert </actor>
+      <actor> Dabs Greer </actor>
+      <actor> Charlotte Stewart </actor>
+    </credits>
+    <date>1978</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">50</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205134500 +0100" stop="20100205153000 +0100" channel="C6.telepoche.com">
+    <title>Le rêve d'Anna</title>
+    <desc lang="fr">Voilà quelques mois déjà qu'Anna Morgan a été victime d'une chute alors qu'elle faisait de la gymnastique. Un accident dramatique qui lui vaut d'être aujourd'hui paraplégique</desc>
+    <credits>
+      <actor> Lindsay Felton </actor>
+      <actor> Cara DeLizia </actor>
+      <actor> Connie Sellecca </actor>
+      <actor> Melissa Schuman </actor>
+      <actor> Richard Thomas </actor>
+      <actor> Tyler Goucher </actor>
+      <actor> Courtney Jines </actor>
+      <actor> August Amarino </actor>
+      <actor> Scott Cain </actor>
+      <actor> Don Franklin </actor>
+      <actor> Matt Newton </actor>
+      <actor> James Snyder </actor>
+      <actor> Collin Stark </actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">téléfilm</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">105</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205153000 +0100" stop="20100205172000 +0100" channel="C6.telepoche.com">
+    <title>Les prisonniers du silence</title>
+    <desc lang="fr">Christine est une femme débordée : avec un mari souvent absent, elle travaille et élève ses deux enfants dont Nicky, l'aîné, un enfant très agité et régulièrement enclin à la maladie. Soudainement, le garçon présente des troubles du langage qu'il n'avait pas auparavant. Déterminée à trouver les causes du mal qui le ronge, Christine est confrontée à l'incompréhension de son mari, à l'incompétence de l'école et à l'impuissance des médecins. Quand un psychopédagogue diagnostique «une forme réceptive à l'aphasie», autrement dit l'autisme, Christine persuadée que «quelque chose» est à l'origine de cette pathologie lourde</desc>
+    <credits>
+      <actor> Juliet Stevenson </actor>
+      <actor> Hugh Bonneville </actor>
+      <actor> Adie Allen </actor>
+      <actor> Li-Leng Au </actor>
+      <actor> Todd Boyce </actor>
+      <actor> Maurice Gleeson </actor>
+      <actor> Emma Handy </actor>
+      <actor> Jamie Martin </actor>
+      <actor> Emma Pie </actor>
+      <actor> Andrew Woodall </actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">téléfilm</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">110</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205172000 +0100" stop="20100205175000 +0100" channel="C6.telepoche.com">
+    <title>Le rêve de Diana</title>
+    <desc lang="fr">Max convainc Constantin de laisser Julietta vivre à Essen et d'investir dans la marque Steinkamp dont Diana est devenue l'ambassadrice. Pour récupérer les parts de son mari, Clémence complote avec Axel pour le faire accuser de détournement de fonds</desc>
+    <credits>
+      <actor> Tanja Szewczenko </actor>
+      <actor> Thorsten Grasshoff </actor>
+      <actor> Christiane Klimt </actor>
+      <actor> Tatjana Clasing </actor>
+      <actor> Silvan-Pierre Leirich </actor>
+      <actor> Stephen Duerr </actor>
+      <actor> Daniel Aichinger </actor>
+      <actor> Ingeborg Brings </actor>
+      <actor> Yasmin Canli </actor>
+      <actor> Armin Dallapiccola </actor>
+      <actor> Sabine Fernandez </actor>
+      <actor> Ulrike Röseberg </actor>
+      <actor> Susanne Schlenzig </actor>
+      <actor> Andreas Seyferth </actor>
+      <actor> Natalie Thiede </actor>
+      <actor> Julia Augustin </actor>
+      <actor> Sam Eisenstein </actor>
+      <actor> Dennis Grabosch </actor>
+      <actor> Tom Barcal </actor>
+      <actor> André Dietz </actor>
+      <actor> Madlen Kaniuth </actor>
+      <actor> Régine Seidler </actor>
+    </credits>
+    <date>2006</date>
+    <category lang="fr">feuilleton</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">320</length>
+  </programme>
+  <programme start="20100205175000 +0100" stop="20100205185000 +0100" channel="C6.telepoche.com">
+    <title>Un dîner presque parfait</title>
+    <desc lang="fr">Une compétition d'un nouveau genre, mêlant art de recevoir, décoration et talent culinaire, où chaque candidat doit faire preuve de générosité et de créativité pour étonner ses invités ! Ils sont cinq, ils habitent la même région, ils ne se connaissent pas et pourtant, ils vont s'inviter à dîner à tour de rôle pendant toute une semaine pour remporter le titre de meilleur hôte. Chaque soir, un candidat différent reçoit ses adversaires. Plaisanteries, commentaires sympathiques ou critiques cinglantes...la soirée sera pimentée par les réactions des convives, qui noteront leur hôte sur trois critères : cuisine, décoration, et ambiance générale</desc>
+    <date>2008</date>
+    <category lang="fr">divertissement</category>
+    <length units="hours">1</length>
+  </programme>
+  <programme start="20100205185000 +0100" stop="20100205194000 +0100" channel="C6.telepoche.com">
+    <title>100 % mag</title>
+    <desc lang="fr">100 % Mag est un nouveau magazine quotidien d'info dont l'ambition est de faire découvrir et comprendre les événements, les phénomènes et les évolutions qui marquent notre société</desc>
+    <date>2008</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">information</category>
+    <length units="minutes">410</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205194500 +0100" stop="20100205200500 +0100" channel="C6.telepoche.com">
+    <title>Le 19 45</title>
+    <desc lang="fr">18 minutes pour apprendre, comprendre et surprendre. 18 minutes pour traiter complètement de l'actualité, tout en conservant les atouts qui ont fait le succès du SIX' : la force des images, la pédagogie dans le traitement des informations et le rythme d'un journal qui va à l'essentiel</desc>
+    <date>2009</date>
+    <category lang="fr">information</category>
+    <length units="minutes">270465</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205200500 +0100" stop="20100205204000 +0100" channel="C6.telepoche.com">
+    <title>Caméra café 2</title>
+    <credits>
+      <actor> Arnaud Ducret </actor>
+      <actor> Yannick Choirat </actor>
+      <actor> Tom Novembre </actor>
+      <actor> Gaëlle Hausermann </actor>
+      <actor> Charline Paul </actor>
+      <actor> Sophie Le Tellier </actor>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">comédie</category>
+    <length units="minutes">12485</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205204000 +0100" stop="20100205212500 +0100" channel="C6.telepoche.com">
+    <title>N.C.I.S. : Enquêtes spéciales</title>
+    <sub-title>Légende</sub-title>
+    <desc lang="fr">L'équipe se rend à Los Angeles pour travailler avec l'équipe sur place afin d'enquêter sur un meurtre, qui se transforme bientôt en quelque chose de plus important. Pendant ce temps, Tony commence à fouiller dans la vie privée de Ziva</desc>
+    <credits>
+      <actor> Mark Harmon </actor>
+      <actor> Michael Weatherly </actor>
+      <actor> Pauley Perrette </actor>
+      <actor> David McCallum </actor>
+      <actor> Cote De Pablo </actor>
+      <actor> Brian Dietzen </actor>
+      <actor> Sean Murray </actor>
+      <actor> Chris O'Donnell </actor>
+      <actor> LL Cool J </actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">policier</category>
+    <length units="minutes">520</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205212500 +0100" stop="20100205222000 +0100" channel="C6.telepoche.com">
+    <title>N.C.I.S. : Enquêtes spéciales</title>
+    <sub-title>Ames soeurs</sub-title>
+    <desc lang="fr">Le corps d'un caporal censé être en mission en Irak a été retrouvé près de Washington lors d'une visite par un agent immobilier</desc>
+    <credits>
+      <actor> Nell Scovell </actor>
+      <actor> Mark Harmon </actor>
+      <actor> Michael Weatherly </actor>
+      <actor> Pauley Perrette </actor>
+      <actor> Cote De Pablo </actor>
+      <actor> David McCallum </actor>
+      <actor> Sean Murray </actor>
+      <actor> Lauren Holly </actor>
+      <actor> Brian Dietzen </actor>
+    </credits>
+    <date>2006</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">policier</category>
+    <length units="minutes">565</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205222000 +0100" stop="20100205231000 +0100" channel="C6.telepoche.com">
+    <title>N.C.I.S. : Enquêtes spéciales</title>
+    <sub-title>Duo d'enfer</sub-title>
+    <desc lang="fr">L'équipe de Gibbs enquête sur la mort du Colonel Frederik Cooper, tué sur un cour de golf réservé aux militaires. Il pourrait s'agir d'un acte terroriste sur lequel le N.C.I.S doit travailler</desc>
+    <credits>
+      <actor> Mark Harmon </actor>
+      <actor> Michael Weatherly </actor>
+      <actor> Pauley Perrette </actor>
+      <actor> David McCallum </actor>
+      <actor> Cote De Pablo </actor>
+      <actor> Sean Murray </actor>
+      <actor> Lauren Holly </actor>
+      <actor> Brian Dietzen </actor>
+    </credits>
+    <date>2006</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">policier</category>
+    <length units="minutes">620</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205231000 +0100" stop="20100205234000 +0100" channel="C6.telepoche.com">
+    <title>Californication</title>
+    <sub-title>Une page se tourne</sub-title>
+    <desc lang="fr">Hank est de retour à Los Angeles. Malgré son deuil, l'inspiration le gagne, notamment après la nuit passée avec Karen. Il écrit de nouveau et confie son roman à Karen, qui refuse de le lire alors que Charlie, son agent, trépigne d'impatience. Un soir, en rentrant chez, il découvre un gros chèque de royalties provenant du succès de l'adaptation de son dernier livre au cinéma. Content, il offre une guitare à Becca et s'achète une nouvelle Porsche. Charlie a moins de chance, il surprend sa femme avec sa secrétaire, Dani...</desc>
+    <credits>
+      <actor> David Duchovny </actor>
+      <actor> Natascha McElhone </actor>
+      <actor> Madeleine Martin </actor>
+      <actor> Madeline Zima </actor>
+      <actor> Evan Handler </actor>
+      <actor> Pamela Adlon </actor>
+      <actor> Rachel Miner </actor>
+      <actor> Damian Young </actor>
+    </credits>
+    <date>2007</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">comédie</category>
+    <length units="minutes">670</length>
+  </programme>
+  <programme start="20100205234000 +0100" stop="20100206000500 +0100" channel="C6.telepoche.com">
+    <title>Californication</title>
+    <sub-title>Dernier round entre amis</sub-title>
+    <desc lang="fr">Séparé de Marcy, Charlie est bien décidé à prendre du bon temps. Il tente de convaincre son ami Hank de faire équipe pour courtiser la gent féminine. Mais éconduit par Karen, celui-ci n'a pas trop la tête à ça... Mia, qui a fait une copie du nouveau roman de Hank, veut le faire publier sous son nom et s'en approprier le mérite... Ambitieuse, Dani pousse Charlie à l'initier au métier d'agent</desc>
+    <credits>
+      <actor> Tom Kapinos </actor>
+      <actor> David Duchovny </actor>
+      <actor> Natascha McElhone </actor>
+      <actor> Madeleine Martin </actor>
+      <actor> Madeline Zima </actor>
+      <actor> Evan Handler </actor>
+      <actor> Pamela Adlon </actor>
+      <actor> Rachel Miner </actor>
+      <actor> Laura Niles </actor>
+    </credits>
+    <date>2007</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">comédie</category>
+    <length units="minutes">700</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206000500 +0100" stop="20100206004000 +0100" channel="C6.telepoche.com">
+    <title>Journal intime d'une call-girl</title>
+    <sub-title>L'Art de vivre</sub-title>
+    <desc lang="fr">Belle se voit offrir une opportunité professionnelle unique. Mais quel effet cette évolution de carrière pourrait-elle avoir sur sa vie ?</desc>
+    <credits>
+      <actor> Billie Piper </actor>
+      <actor> Toyah Willcox </actor>
+      <actor> Cherie Lunghi </actor>
+      <actor> Iddo Goldberg </actor>
+      <actor> Kim Thomson </actor>
+      <actor> Sara Stewart </actor>
+      <actor> Ting Ting Hu </actor>
+      <actor> Stuart Organ </actor>
+    </credits>
+    <date>2007</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">drame</category>
+    <length units="minutes">5</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206004500 +0100" stop="20100206014500 +0100" channel="C6.telepoche.com">
+    <title>Turbo</title>
+    <date>2009</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">automobile</category>
+    <length units="hours">1</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206014500 +0100" stop="20100206032500 +0100" channel="C6.telepoche.com">
+    <title>Les feux de la Chandeleur</title>
+    <desc lang="fr">Hiver 64. Un couple se sépare après de nombreuses années de mariage. Dix ans plus tard, Marie-Louise est toujours amoureuse de son ex-mari et est persuadée qu'il lui reviendra un jour</desc>
+    <credits>
+      <actor> Annie Girardot </actor>
+      <actor> Jean Rochefort </actor>
+      <actor> Claude Jade </actor>
+      <actor> Gabriella Boccardo </actor>
+      <actor> Illaria Occhini </actor>
+      <actor> Bernard Fresson </actor>
+      <actor> Jean Bouise </actor>
+      <actor> Bernard Le Coq </actor>
+      <actor> Christophe Bruno </actor>
+      <actor> Isabelle Missud </actor>
+    </credits>
+    <date>1972</date>
+    <category lang="fr">film</category>
+    <category lang="fr">drame</category>
+    <length units="minutes">100</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206032500 +0100" stop="20100206060000 +0100" channel="C6.telepoche.com">
+    <title>Pas de programme</title>
+    <category lang="fr">non precise</category>
+    <length units="minutes">155</length>
+  </programme>
+  <programme start="20100205053500 +0100" stop="20100205060000 +0100" channel="C195.telepoche.com">
+    <title>Marcelino</title>
+    <sub-title>La montre du magicien</sub-title>
+    <desc lang="fr">Marcelino et Frère Oiseau emmènent Jeudi au village pour découvrir qui il est. Ils se rendent à la police et le sergent, prétendant qu'il ressemble à un célèbre bandit, le flanque en prison. Tandis que Marcelino retourne en vitesse au monastère chercher de l'aide. Jeudi réussi à endormir le sergent et à s'échapper de sa geôle...</desc>
+    <date>2004</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">335</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205060000 +0100" stop="20100205062000 +0100" channel="C195.telepoche.com">
+    <title>Dans le jardin des rêves</title>
+    <sub-title>Makka Pakka lave les visages</sub-title>
+    <desc lang="fr">Basculer dans le sommeil est un moment propice à la rêverie, mais c'est parfois un peu angoissant. Forts de leur connaissance des enfants, Anne Wood et Andrew Davenport, les créateurs des Teletubbies, ont imaginé cette série douce et apaisante qui a rencontré un énorme succès dans son pays d'origine</desc>
+    <date>2007</date>
+    <category lang="fr">dessin animé</category>
+    <length units="hours">6</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205063500 +0100" stop="20100205070000 +0100" channel="C195.telepoche.com">
+    <title>Il était une fois... l'homme</title>
+    <sub-title>Le printemps des peuples</sub-title>
+    <desc lang="fr">1829. Maestro débarque à Liverpool pour participer à un grand concours de machines à vapeur. Il assiste aux débuts du rail qui, en moins d'un siècle, va recouvrir l'Europe et l'Amérique.</desc>
+    <credits></credits>
+    <date>1978</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">395</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205072000 +0100" stop="20100205074500 +0100" channel="C195.telepoche.com">
+    <title>Toupou</title>
+    <sub-title>Toupou déménage</sub-title>
+    <desc lang="fr">Les arbres de Central Parc étant infesté de chenilles, la mairie doit pulvériser un répulsif pendant la nuit. Schoups, qui espère débusquer la peste aux cheveux roux, monte la garde. Pendant ce temps, Norton aide Toupou à trouver un endroit sûr où passer la nuit. Faute de mieux, ils s'immiscent dans l'école de Norton par une fenêtre entrouverte</desc>
+    <credits></credits>
+    <date>2004</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">440</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205081000 +0100" stop="20100205083500 +0100" channel="C195.telepoche.com">
+    <title>La famille pirate</title>
+    <sub-title>La tache noire</sub-title>
+    <desc lang="fr">Etre pirate et père de famille, c'est pas rien ! C'est pourtant le destin du Capitaine MacBernik. Installé avec sa petite famille sur l'île de la Tortue dans un pavillon avec vue sur la mer, MacBernik a du pain sur la planche pour sauver la face !</desc>
+    <credits></credits>
+    <date>1999</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">490</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205091000 +0100" stop="20100205093500 +0100" channel="C195.telepoche.com">
+    <title>Spirou</title>
+    <sub-title>Privé de desert</sub-title>
+    <desc lang="fr">Accompagnéspar le jeune Alim qui va rejoindre sa famille Touareg et leur servira de guide, Spirou et Fantasio débarquent en Afrique du Nord pour un reportage sur les célèbres tribus nomades du Sahara. Mais bientôt, nos héros vont constater que le désert semble devenu complètement fou : des points d'eau s'assèchent inexplicablement tandis que font rage ailleur des orages tout aussi inexplicables et que les oasis gèlent. On a même vu tomber de la neige au coeur du désert !</desc>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">550</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205093500 +0100" stop="20100205100000 +0100" channel="C195.telepoche.com">
+    <title>Allô la Terre, ici les Martin</title>
+    <sub-title>Le masque de plexiglas</sub-title>
+    <desc lang="fr">Le demi-frère de Georges atterrit sur la station ! L'ennui, c'est que personne n'est censé savoir où se trouve les Martin: qui est donc ce Lucien ? Et Georges qui lui donne tout l'amour d'un frère ! Heureusement que Mamie veille .</desc>
+    <date>2001</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">575</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205100000 +0100" stop="20100205103000 +0100" channel="C195.telepoche.com">
+    <title>Les mystérieuses Cités d'Or</title>
+    <sub-title>Le canon des espagnols</sub-title>
+    <desc lang="fr">1532, Barcelone. Un jeune orphelin, Esteban, accepte de partir avec Mendoza, un mystérieux marin, vers le Nouveau Monde, afin de découvrir les légendaires Cités d'Or. Sur sa route, Esteban rencontre Zia, une jeune Inca arrachée à son peuple par les Espagnols et Tao, un indigène des îles Galápagos, descendant du peuple Mu. Sans le savoir, les trois enfants réunis par la destinée possèdent les trois clefs de la première de sept légendaires Cités d'Or...</desc>
+    <date>1982</date>
+    <category lang="fr">dessin animé</category>
+    <length units="hours">10</length>
+  </programme>
+  <programme start="20100205105000 +0100" stop="20100205111500 +0100" channel="C195.telepoche.com">
+    <title>L'histoire sans fin</title>
+    <sub-title>L'horloge d'Amarganth</sub-title>
+    <desc lang="fr">Si, dans notre monde, Bastien est un petit garçon comme les autres, dans Fantasia, il devient un héros. Il doute constamment de lui-même, mais grâce à sa débrouillardise, à son courage et à son bon sens, il parvient toujours à tenir tête à la Reine Xayide et à triompher de tous les dangers qui menacent Fantasia</desc>
+    <date>1996</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">650</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205111500 +0100" stop="20100205114000 +0100" channel="C195.telepoche.com">
+    <title>La famille pirate</title>
+    <sub-title>Le coup du lapin</sub-title>
+    <desc lang="fr">Victor apprend qu'Irvin a attaqué un galion à l'aide de lapins, ce qui est rigoureusement interdit par le code pirate. Il porte donc plainte auprès de la Police pirate maritime qui mène son enquête. Une investigation qui la fait très vite remonter jusqu'à... Bigorneau !</desc>
+    <date>1999</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">675</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205120000 +0100" stop="20100205122500 +0100" channel="C195.telepoche.com">
+    <title>In ze boîte</title>
+    <desc lang="fr">Avec ses drôles de défis, ses quiz malins et sa mystérieuse boîte noire pleine de nouveaux pièges, ce jeu donne du fil à retordre à la fois aux enfants et aux adultes</desc>
+    <date>2007</date>
+    <category lang="fr">jeu</category>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205123500 +0100" stop="20100205132500 +0100" channel="C195.telepoche.com">
+    <title>Loïs et Clark, les nouvelles aventures de Superman</title>
+    <sub-title>Le mur du son</sub-title>
+    <desc lang="fr">Quatre malfrats braquent une banque de Métropolis grâce à une arme révolutionnaire, mi-revolver, mi-antenne satellite, émettant un son mélodieux qui plonge ses cibles dans un profond sommeil ! Les quatre bandits ne sont pas affectés par ce son, car ils portent des casques spéciaux. Appelés sur les lieux du hold-up, Lois et Clark tentent de trouver l'origine de ce bruit mystérieux</desc>
+    <credits>
+      <actor> Dean Cain </actor>
+      <actor> Teri Hatcher </actor>
+      <actor> Lane Smith </actor>
+      <actor> John Shea </actor>
+      <actor> Eddie Jones </actor>
+      <actor> K. Callan </actor>
+      <actor> Justin Whalin </actor>
+      <actor> Scott Colomby </actor>
+    </credits>
+    <date>1993</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">science-fiction</category>
+    <length units="minutes">35</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205135000 +0100" stop="20100205141000 +0100" channel="C195.telepoche.com">
+    <title>Prouve-le !</title>
+    <desc lang="fr">Grâce à « Prouve-le ! », les téléspectateurs vont pouvoir obtenir des explications claires et toutes simples aux phénomènes physiques les plus étranges. Joe Challands et Jamies Rickers, les deux animateurs, mettent tout en oeuvre pour démontrer ce qu'ils avancent ou, au contraire, tordre le coup à des idées reçues.</desc>
+    <date>2006</date>
+    <category lang="fr">magazine</category>
+    <category lang="fr">science et technique</category>
+    <length units="minutes">110</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205143500 +0100" stop="20100205145500 +0100" channel="C195.telepoche.com">
+    <title>Il était une fois ... notre Terre</title>
+    <sub-title>Lutter contre le désert</sub-title>
+    <desc lang="fr">Il était une fois notre Terre : une manière de sensibiliser les enfants, citoyens de demain, aux problèmes d environnement comme par exemple les Ecosystèmes, le commerce équitable et le climat dans le grand Nord, .</desc>
+    <date>2007</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">155</length>
+  </programme>
+  <programme start="20100205145500 +0100" stop="20100205152000 +0100" channel="C195.telepoche.com">
+    <title>Orson et Olivia</title>
+    <sub-title>Le merle de Falstaff</sub-title>
+    <desc lang="fr">Falstaff, le chien d'Orson et Olivia, a étéenlevé en compagnie d'un merle, son nouvel ami.Lancés àleur recherche, Orson et Olivia découvrent qu'un vieuxchinois se cache derrière cette étrange disparition</desc>
+    <credits></credits>
+    <date>1993</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">175</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205152000 +0100" stop="20100205154500 +0100" channel="C195.telepoche.com">
+    <title>Toupou</title>
+    <sub-title>Gare au gorille !</sub-title>
+    <desc lang="fr">Une grand opération écologique est mise en place par la mairie : le gorille Lastar, mascotte d'une célèbre marque de soda, va être rapatrié dans une réserve africaine le lendemain. Des dizaines de figurants déguisés en gorille sillonnent la ville pour promouvoir l'événement et récolter des fonds. Lorsque Norton arrive à Central Park, Toupou a fait sortir Lastar de sa cage pour lui faire découvrir son univers! Il essaie de raisonner son amie, mais elle n'a d'yeux que pour Lastar et l'ignore totalement. Norton les suit, en priant pour que tout se déroule sans encombre. Mais Schoups, qui fait l'objet d'une inspection, les a repérés</desc>
+    <credits></credits>
+    <date>2004</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">200</length>
+  </programme>
+  <programme start="20100205165000 +0100" stop="20100205171500 +0100" channel="C195.telepoche.com">
+    <title>Woody Woodpecker</title>
+    <sub-title>Les petites têtes / Chilly superstar / Le traitement par le silence</sub-title>
+    <desc lang="fr">Ce pic-vert au rire inimitable ne pense qu'à lui-même et ses principales préoccupations sont se bagarrer, voler, manger et courtiser les filles</desc>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">290</length>
+  </programme>
+  <programme start="20100205174500 +0100" stop="20100205181000 +0100" channel="C195.telepoche.com">
+    <title>Shuriken School</title>
+    <sub-title>Le secret de Kubo</sub-title>
+    <desc lang="fr">Impossible d'avoir un professeur aussi soporifique que Kubo ! Seul le principal apprécie ces cours qui lui permettent de bénéficier d'un sommeil réparateur ! Mais Jimmy, Okuni et Eizan sont bien décidés àpercer le secret de leur professeur</desc>
+    <credits></credits>
+    <date>2006</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">345</length>
+  </programme>
+  <programme start="20100205181000 +0100" stop="20100205184000 +0100" channel="C195.telepoche.com">
+    <title>La famille pirate</title>
+    <sub-title>Le coup du lapin</sub-title>
+    <desc lang="fr">Victor apprend qu'Irvin a attaqué un galion à l'aide de lapins, ce qui est rigoureusement interdit par le code pirate. Il porte donc plainte auprès de la Police pirate maritime qui mène son enquête. Une investigation qui la fait très vite remonter jusqu'à... Bigorneau !</desc>
+    <date>1999</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">370</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205190500 +0100" stop="20100205195500 +0100" channel="C195.telepoche.com">
+    <title>Loïs et Clark, les nouvelles aventures de Superman</title>
+    <sub-title>L'informateur</sub-title>
+    <desc lang="fr">Loïs reçoit la visite de Stuart Hofferman, un employé d'une société d'électronique. Ce dernier l'informe que l'accident survenu peu avant dans un parc d'attractions est le résultat d'une négligeance délibérée. Loïs promet l'anonymat à Stuart et écrit un article mettant en cause l'entreprise. Le président apprend la trahison de Stuart et le menace de le tuer s'il ne dément pas publiquement ses allégations</desc>
+    <credits>
+      <actor> Dean Cain </actor>
+      <actor> Teri Hatcher </actor>
+      <actor> Lane Smith </actor>
+      <actor> Eddie Jones </actor>
+      <actor> John Shea </actor>
+      <actor> Tim Grimm </actor>
+      <actor> K. Callan </actor>
+      <actor> Barry Livingston </actor>
+      <actor> Justin Whalin </actor>
+    </credits>
+    <date>1993</date>
+    <category lang="fr">série/feuilleton</category>
+    <category lang="fr">science-fiction</category>
+    <length units="minutes">425</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205195500 +0100" stop="20100205202500 +0100" channel="C195.telepoche.com">
+    <title>In ze boîte</title>
+    <desc lang="fr">Avec ses drôles de défis, ses quiz malins et sa mystérieuse boîte noire pleine de nouveaux pièges, ce jeu donne du fil à retordre à la fois aux enfants et aux adultes</desc>
+    <date>2007</date>
+    <category lang="fr">jeu</category>
+    <length units="minutes">475</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205203500 +0100" stop="20100205221000 +0100" channel="C195.telepoche.com">
+    <title>Sur la piste du grizzly</title>
+    <desc lang="fr">Un énorme ours brun s'échappe d'une réserve d'animaux sauvages et saccage le villade de Pine Lake. Un adolescent, persuadé de connaître le pourquoi du comportement de la bête, part à sa recherche</desc>
+    <credits>
+      <actor> Jeff Phillips </actor>
+      <actor> Daniel Baldwin </actor>
+      <actor> Fred Dryer </actor>
+      <actor> Patrick Ecclesine </actor>
+      <actor> Michele Greene </actor>
+      <actor> Riley Smith </actor>
+      <actor> Steve Reevis </actor>
+      <actor> Courtney Peldon </actor>
+      <actor> Brendan O'Brien </actor>
+      <actor> John O'Hurley </actor>
+      <actor> Ron Roggé </actor>
+    </credits>
+    <date>1999</date>
+    <category lang="fr">téléfilm</category>
+    <category lang="fr">comédie dramatique</category>
+    <length units="minutes">95</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100205221000 +0100" stop="20100205225000 +0100" channel="C195.telepoche.com">
+    <title>Ils sont fous ces humains</title>
+    <sub-title>Spécial magie 2</sub-title>
+    <desc lang="fr">Au sommaire : Marc Dosseto, «Oiseaux» - Le Cirque Plume, «Les Bidons» - Arts de la rue/Transports Exceptionnels, «pelleteuse» Net - Takayama, «Burger + lunettes» - Gustave Parking, «Jonglage» - Majestx, «Malle» - Piloiu Duvivier, «Cartes» - Cirque Parfum d'Est, «Fil» Net - Chris Angel, «Le Mur» - Cirque Aïtal Arts de la rue - Ilotopie</desc>
+    <date>2008</date>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">610</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206003500 +0100" stop="20100206005500 +0100" channel="C195.telepoche.com">
+    <title>Urmel</title>
+    <sub-title>Urmel sort de sa coquille</sub-title>
+    <credits></credits>
+    <date>1994</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">35</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206005500 +0100" stop="20100206013000 +0100" channel="C195.telepoche.com">
+    <title>Jumanji</title>
+    <sub-title>L'épidémie</sub-title>
+    <desc lang="fr">Bien qu'il soit malade, Peter entre tout de même dans le Jumanji. Mais sa maladie empire et Alan est obligé de demander de l'aide aux Manjis. Ceux-ci découvrent qu'il est contagieux et risque de tuer les habitants du jeu. Il faut vite trouver un médecin de tout urgence</desc>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">55</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206013000 +0100" stop="20100206023500 +0100" channel="C195.telepoche.com">
+    <title>Creepie</title>
+    <sub-title>La nuit de l'épouvante</sub-title>
+    <desc lang="fr">Chris Alice organise un soirée d'épouvante chez elle, plutôt «rose bonbons, et malgré son enthousiasme tout le monde craint de s' y ennuyer, et surtout de ne pas avoir peur. Et pourtant Creepie va vivre un des «grands moments de sa vie»</desc>
+    <date>2006</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">65</length>
+  </programme>
+  <programme start="20100206025000 +0100" stop="20100206034000 +0100" channel="C195.telepoche.com">
+    <title>Allô la Terre, ici les Martin</title>
+    <sub-title>Dégraissage</sub-title>
+    <desc lang="fr">L'opératon SOS (Station Orbitale Secrète) est un succès. Alors, pour gagner encore plus d'argent, Krach Industries a décidé une réduction d'effectifs sur la station. Le premier touché est Guy ! Et Georges doit prendre sa place, en plus de son propre travail ! Les choses se corsent encore plus quand Georges doit aussi prendre le travail de son meilleur ami, Boris</desc>
+    <date>2001</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">170</length>
+    <video>
+      <colour>yes</colour>
+    </video>
+  </programme>
+  <programme start="20100206034000 +0100" stop="20100206053500 +0100" channel="C195.telepoche.com">
+    <title>Les Zinzins de l'espace</title>
+    <sub-title>Une froide intelligence</sub-title>
+    <desc lang="fr">Les zinzins s apprêtent à s envoler dans une nouvelle fusée construite par Etno mais Bud actionne malencontreusement la commande de refroidissement, et la maison se transforme en banquise Les zinzins n ont plus qu à s adapter : ils se transforment en pingouins. Arrive alors le professeur Etienne, accompagné de Manu, son pingouin de labo.</desc>
+    <date>2005</date>
+    <category lang="fr">dessin animé</category>
+    <length units="minutes">115</length>
+  </programme>
+</tv>

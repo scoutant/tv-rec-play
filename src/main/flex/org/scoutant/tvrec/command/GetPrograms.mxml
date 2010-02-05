@@ -6,9 +6,10 @@
 	>
 	<!--
 		url="./assets/tv-20100127-20100131.xml" 
+		url="./assets/grab-3.xml" 
 	-->
 	<mx:HTTPService id="ws" method="GET"
-		url="./assets/grab-3.xml" 
+		url="./assets/tv.xml" 
 		result="doLoad(event)" fault="faultHandler(event)" 
 		resultFormat="e4x" useProxy="false" 
 		>
@@ -56,8 +57,8 @@
 					guide.add(p);
 				}
 				trace( "Guide : " + guide);
-//				new CairngormEvent("initCursor").dispatch();
-				new CairngormEvent("initCursorForDev").dispatch();
+				new CairngormEvent("initCursor").dispatch();
+//			new CairngormEvent("initCursorForDev").dispatch();
 				new CairngormEvent("populateViewport").dispatch();
 				// will launch ..
 				TimerMgr.instance;

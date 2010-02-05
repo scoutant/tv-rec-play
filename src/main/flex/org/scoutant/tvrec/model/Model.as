@@ -40,5 +40,6 @@ package org.scoutant.tvrec.model {
 		/** in munites */
 		[Bindable] public var viewportPadding:Number = 60;
 
+		[Bindable] public var isRecording:Boolean = false;
 	}
 }

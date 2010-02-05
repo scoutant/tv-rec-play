@@ -19,7 +19,8 @@ package org.scoutant.tvrec.command {
 					new ProgramEvent("startRecording", program).dispatch();
 				}
 				if (program.record && (program.z-1) == now) {
-					new ProgramEvent("stopRecording", program).dispatch();
+//					new ProgramEvent("stopRecording", program).dispatch();
+					new ProgramEvent("stop", program).dispatch();
 				}
 			}
 		}	

@@ -1,0 +1,1 @@
+/home/sooc7596/prog/flexbuild3-alpha5/sdks/3.5.0-air2_b1/bin/adl_lin -runtime /home/sooc7596/prog/flexbuild3-alpha5/sdks/3.5.0-air2_b1/runtimes/air/linux /home/sooc7596/2010/airtv/bin-debug/airtv-app.xml /home/sooc7596/2010/airtv/bin-debug

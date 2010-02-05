@@ -10,7 +10,8 @@ package org.scoutant.tvrec.command {
 			try {
 				guide.channel = guide.channels[guide.list.getItemAt(0)] as Channel;
 				// TODO sourcer en fonction de la date système ?
-				var time:Number = Model.instance.now;	
+				var time:Number = Math.round(new Date().getTime()/1000/60);
+				Model.instance.now = time;	
 				guide.current = guide.channel.getAtTime( time);
 				guide.time = time; 
 			} catch(error:Error) {

@@ -8,6 +8,7 @@ package org.scoutant.tvrec.command {
 		public function execute( event : CairngormEvent ): void {
 			var program:Program = Model.instance.guide.current;
 			trace ("Setting for record : " + program);
+			// TODO mais si c'est un programme qui est précisément en cours ! on en tient compte et on lance l'enregistrement égalkement !
 			if (program.z < Model.instance.now) {
 				// wont bother past programs...
 				return;

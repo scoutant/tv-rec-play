@@ -6,11 +6,12 @@
 	creationComplete="new CairngormEvent('getPrograms').dispatch()"
 	clipContent="false"
 	initialize="setFocus();"	
-	backgroundGradientColors="[0xFF6600, 0xFF8800]"
+	backgroundGradientColors="{ !Model.instance.isRecording ? [0xFF6600, 0xFF8800] : [0xFF6600]}"
 	backgroundAlpha="0.4"
 	resize="Model.instance.vpDuration = Math.round(this.width/Model.instance.zoom)"
+	width="2000" height="1000"
+	closing="new CairngormEvent('stop').dispatch()"
 	>
-
 	<mx:TraceTarget level="0" includeDate="false" includeTime="false" includeCategory="true" includeLevel="true">
 		<mx:filters>
 			<mx:Array>

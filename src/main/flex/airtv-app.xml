@@ -8,4 +8,6 @@
 		<content>[This value will be overwritten by Flex Builder in the output app.xml]</content>
 	</initialWindow>
 	<supportedProfiles>extendedDesktop</supportedProfiles>
+	<width>1400</width>
+	<height>800</height>
 </application>
