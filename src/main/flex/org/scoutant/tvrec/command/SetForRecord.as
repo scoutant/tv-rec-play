@@ -14,6 +14,11 @@ package org.scoutant.tvrec.command {
 				return;
 			}
 			program.record = !program.record;
+			// if happen to be a current program, start recording immidiately!
+			if (program.a <= Model.instance.now && Model.instance.now < program.z) {
+				trace ("and starting recording !");
+				new ProgramEvent("recordProgram", program).dispatch();
+			}
 		}	
 	}
 }

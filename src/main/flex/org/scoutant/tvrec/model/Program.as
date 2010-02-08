@@ -1,5 +1,6 @@
 package org.scoutant.tvrec.model {
 	import org.scoutant.tvrec.utils.DateUtil;
+	import org.scoutant.tvrec.utils.StringUtil;
 	
 	public class Program {
 		public var channel:String;
@@ -51,6 +52,8 @@ package org.scoutant.tvrec.model {
 		
 		/** Return normalized title, that can be used as file name on any OS */
 		public function get normalizedTitle():String {
+			return StringUtil.normalize( this.title); 
+			/*
 			var str:String = title.toLowerCase();
 			str = str.replace(/\.\.\./g, "-" );
 			str = str.replace(/\?/g, "" );
@@ -67,6 +70,7 @@ package org.scoutant.tvrec.model {
 			str = str.replace(/\'/g, "-" );
 			str = str.replace(/\+/g, "-" );
 			return str;
+			*/
 		}		
 
 

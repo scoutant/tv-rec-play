@@ -30,8 +30,8 @@ package org.scoutant.tvrec.controller {
 			addCommand("recordProgram", RecordProgram);
 			addCommand("recordChannel", RecordChannel);
 			addCommand("watchChannel", WatchChannel);
-			//addCommand("pause", Pause);
 			addCommand("stop", Stop);
+			addCommand("endOfRecording", EndOfRecording);
 		}
 		
 		override protected function executeCommand(event:CairngormEvent):void {

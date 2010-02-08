@@ -34,6 +34,7 @@ package org.scoutant.tvrec.command {
 			// If you need Air specific stuff, just cast to WindowedApplication, like so : WindowedApplication ( Application.application)
 			if (key == Keyboard.RIGHT)	new IndexEvent('timeNavigate', 5).dispatch(); 
 			if (key == Keyboard.LEFT) 	new IndexEvent('timeNavigate', -5).dispatch(); 
+			if (key == Keyboard.ENTER ) new CairngormEvent('recordChannel').dispatch(); 
 		}
 			
 		private function pressed(key:uint):void {
@@ -42,20 +43,13 @@ package org.scoutant.tvrec.command {
 			if (key == Keyboard.LEFT)	new IndexEvent('timeNavigate', -1).dispatch(); 
 			if (key == Keyboard.DOWN)	new IndexEvent('channelNavigate', 1).dispatch(); 
 			if (key == Keyboard.UP)		new IndexEvent('channelNavigate', -1).dispatch(); 
-			// r, as 'record' : set for record
-			if (key == 82) {
-				new CairngormEvent('setForRecord').dispatch();
-			}
-			// a : record now! current channel 
-			if (key == 65) {
-				new CairngormEvent("recordChannel").dispatch();
-			} 
+			// o, set for record, marking with a dot icon...
+			if (key == 82) new CairngormEvent('setForRecord').dispatch();
+			if (key == 79) new CairngormEvent('setForRecord').dispatch();
 			// s : stop play or record
 			if (key == 83) new CairngormEvent("stop").dispatch();
 			if (key == Keyboard.ENTER ) new CairngormEvent('watchChannel').dispatch(); 
 			if (key == Keyboard.SPACE ) new CairngormEvent('pause').dispatch(); 
-
-			if (key == Keyboard.SHIFT ) new CairngormEvent('recordChannel').dispatch(); 
 		}
 	}
 }

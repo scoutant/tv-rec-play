@@ -17,8 +17,8 @@
 	</mx:Script>
 	
 	<mx:Button label="{program.title}" fontWeight="bold" width="{this.width -10}"
-		color="{Model.instance.guide.current == program ? View.ORANGE : 0xFFFFFF}"
-		fontSize="12"
+		color="{Model.instance.guide.current == program ? View.ORANGE : 0x111111}"
+		fontSize="14"
 		borderColor="{(program.a &lt;= Model.instance.now) &amp;&amp; (Model.instance.now &lt; program.z ) ? View.YELLOW : 0xFFFFFF}"
 		icon="{program.record ? dot : null}"
 		/>

@@ -6,7 +6,7 @@
 	creationComplete="new CairngormEvent('getPrograms').dispatch()"
 	clipContent="false"
 	initialize="setFocus();"	
-	backgroundGradientColors="{ !Model.instance.isRecording ? [0xFF6600, 0xFF8800] : [0xFF6600]}"
+	backgroundGradientColors="{ !Model.instance.isRecording ? [0xFF6600, 0xFF0000] : [0xFF6600]}"
 	backgroundAlpha="0.4"
 	resize="Model.instance.vpDuration = Math.round(this.width/Model.instance.zoom)"
 	width="2000" height="1000"
@@ -29,9 +29,9 @@
 		]]>
 	</mx:Script>
 	<controller:Controller id="controller"/>
-	<view:ProgramView width="100%" height="200" id="programView"/>
+	<view:ProgramView width="100%" height="250" id="programView"/>
 	<view:Viewport width="100%" height="100%"
-		y="200"
+		y="250"
 		guide="{Model.instance.guide}" 
 		/>
 		<!--

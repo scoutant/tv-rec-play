@@ -1,35 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<mx:HBox xmlns:mx="http://www.adobe.com/2006/mxml" 
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" 
 	backgroundColor="0xFFCB60"
 	alpha=".7"
+	clipContent="false"
 	>
-	<mx:VBox>
+	<mx:Canvas height="100%" width="200" >
+		<mx:Image verticalAlign="middle" 
+			horizontalAlign="right"
+			id="channelIcon"
+			width="200" height="250" />
+	</mx:Canvas>
+	<mx:VBox x="200" clipContent="false">
 		<mx:Form>
 			<mx:FormItem label="channel" >
 				<mx:Text id="channel" 
-					fontSize="16" fontWeight="bold"/>
+					fontSize="24" fontWeight="bold"/>
 			</mx:FormItem>
 			<mx:FormItem label="time" >
 				<mx:Text id="periode" 
-					fontSize="14" fontWeight="bold"/>
+					fontSize="22" fontWeight="bold"/>
 			</mx:FormItem>		
 			<mx:FormItem label="title" >
 				<mx:Text id="title" 
-					fontWeight="bold" fontSize="16"/>
+					fontWeight="bold" fontSize="46"/>
 			</mx:FormItem>
-			<mx:FormItem label="time in min" >
-				<mx:Text id="minute" 
-					/> 
-			</mx:FormItem>		
 			<mx:FormItem label="category" >
-				<mx:Text id="category" 
+				<mx:Text id="category"
+					fontSize="20" 
 					fontWeight="bold"/>
 			</mx:FormItem>
 			<mx:FormItem label="actors" >
 				<mx:Text id="actors"
+					fontSize="16" 
 					fontWeight="bold" />
 			</mx:FormItem>
-			
+			<mx:FormItem label="time in min" visible="false">
+				<mx:Text id="minute"
+					fontSize="8" 
+					/>			
+			</mx:FormItem>		
 		</mx:Form>
 		
 		<mx:Script>
@@ -51,7 +60,4 @@
 			]]>
 		</mx:Script>
 	</mx:VBox>
-	<mx:Image 
-		id="channelIcon"
-		width="50" height="50" />
-</mx:HBox>
+</mx:Canvas>

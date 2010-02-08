@@ -4,11 +4,14 @@ package org.scoutant.tvrec.command {
 	
 	import org.scoutant.tvrec.event.*;
 	import org.scoutant.tvrec.model.*;
-	public class Stop implements ICommand {
+	public class EndOfRecording implements ICommand {
 		public function execute( event : CairngormEvent ): void {
-			trace ("stopping");
-			Model.instance.isRecording = false;		
-			Process.instance.stop();	
+			trace ("end of program being recorded");
+			// do end if actually recording
+			if (Model.instance.isRecording) {
+				Model.instance.isRecording = false;		
+				Process.instance.stop();
+			}
 		}
 	}
 }

@@ -1,6 +1,8 @@
 package org.scoutant.tvrec.model {
 	import mx.collections.ArrayCollection;
 	
+	import org.scoutant.tvrec.utils.StringUtil;
+	
 	public class Channel {
 		
 		public function Channel(id:String) {
@@ -43,6 +45,11 @@ package org.scoutant.tvrec.model {
 			}
 			return null;
 		}
+
+		/** Return normalized name, that can be used as file name on any OS */
+		public function get normalizedName():String {
+			return StringUtil.normalize( this.name);
+		} 
 		
 	}
 }

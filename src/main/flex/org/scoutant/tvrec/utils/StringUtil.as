@@ -1,4 +1,4 @@
-package com.orange.labs.car.will.utils {
+package org.scoutant.tvrec.utils {
 	public class StringUtil {
 		public static function toNumber( str:String):Number {
 			str = unescape(str);
@@ -32,6 +32,25 @@ package com.orange.labs.car.will.utils {
 		public static function extractInt( str:String, index:int):int {
 			return toInt( extractString( str, index));
 		}
+		/** Return normalized title, that can be used as file name on any OS */
+		public static function normalize( arg:String):String {
+			var str:String = arg.toLowerCase();
+			str = str.replace(/\.\.\./g, "-" );
+			str = str.replace(/\?/g, "" );
+			str = str.replace(/!/g, "" );
+			str = str.replace(/\./g, "-" );
+			str = str.replace(/,/g, "-" );
+			str = str.replace(/ $/g, "" );
+			str = str.replace(/ /g, "-" );
+			str = str.replace(/à/g, "a" );
+			str = str.replace(/é|è/g, "e" );
+			str = str.replace(/ï|î/g, "i" );
+			str = str.replace(/ù/g, "u" );
+			str = str.replace(/ç/g, "c" );
+			str = str.replace(/\'/g, "-" );
+			str = str.replace(/\+/g, "-" );
+			return str;
+		}		
 		
 	}
 }

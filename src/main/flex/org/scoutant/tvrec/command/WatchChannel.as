@@ -17,7 +17,8 @@ package org.scoutant.tvrec.command {
 			var ip:String = Model.instance.playlist.ip[channel.id];
 			trace ("watching @ IP: " + ip);
 //			Alert.show( "playing channel : " + ip);
-			Process.instance.vlc( "--fullscreen --play-and-exit /home/sooc7596/Documents/Tromboon-sample.ogg");			
+//			Process.instance.vlc( "--fullscreen --play-and-exit /home/sooc7596/Documents/Tromboon-sample.ogg");			
+			Process.instance.vlc( "--play-and-exit "+ip);			
 		}
 	}
 }

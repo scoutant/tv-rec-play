@@ -13,7 +13,9 @@ package org.scoutant.tvrec.command {
 				var time:Number = Math.round(new Date().getTime()/1000/60);
 				Model.instance.now = time;	
 				guide.current = guide.channel.getAtTime( time);
-				guide.time = time; 
+				guide.time = time;
+				new IndexEvent('timeNavigate', 1).dispatch(); 
+				new IndexEvent('timeNavigate', -1).dispatch(); 
 			} catch(error:Error) {
 				trace("Cannot initialize Cursor");
 			}

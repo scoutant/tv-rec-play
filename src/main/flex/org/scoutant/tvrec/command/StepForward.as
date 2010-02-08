@@ -16,11 +16,12 @@ package org.scoutant.tvrec.command {
 				var program:Program = channel.getAtTime( now);
 				if (program == null) return;
 				if (program.record && program.a == now) {
-					new ProgramEvent("startRecording", program).dispatch();
+					new ProgramEvent("recordProgram", program).dispatch();
 				}
 				if (program.record && (program.z-1) == now) {
 //					new ProgramEvent("stopRecording", program).dispatch();
-					new ProgramEvent("stop", program).dispatch();
+//					new ProgramEvent("stop", program).dispatch();
+					new ProgramEvent("endOfRecording", program).dispatch();
 				}
 			}
 		}	
