@@ -21,6 +21,7 @@ package org.scoutant.tvrec.controller {
 			addCommand("keyPressed", KeyPressedCommand);
 			addCommand("timeNavigate", TimeNavigate);
 			addCommand("channelNavigate", ChannelNavigate);
+			addCommand("channelTrueNavigate", ChannelTrueNavigate);
 			addCommand("initCursor", InitCursor);
 			addCommand("initCursorForDev", InitCursorForDev);
 			addCommand("populateViewport", PopulateViewport);

@@ -18,9 +18,9 @@ package org.scoutant.tvrec.command {
 				if (program.record && program.a == now) {
 					new ProgramEvent("recordProgram", program).dispatch();
 				}
-				if (program.record && (program.z-1) == now) {
-//					new ProgramEvent("stopRecording", program).dispatch();
-//					new ProgramEvent("stop", program).dispatch();
+				// Give some 10 min marging, for many programs happen to extend plannification!
+				// if (program.record && (program.z-1) == now) {
+				if (program.record && (program.z-1) == (now + 10) ) {
 					new ProgramEvent("endOfRecording", program).dispatch();
 				}
 			}

@@ -3,12 +3,12 @@
 	xmlns:controller="org.scoutant.tvrec.controller.*"
 	xmlns:view="org.scoutant.tvrec.view.*"
 	keyDown="new KeyEvent('keyPressed', event).dispatch()"
-	creationComplete="new CairngormEvent('getPrograms').dispatch()"
+	creationComplete="new CairngormEvent('getPrograms').dispatch();"
 	clipContent="false"
 	initialize="setFocus();"	
 	backgroundGradientColors="{ !Model.instance.isRecording ? [0xFF6600, 0xFF0000] : [0xFF6600]}"
 	backgroundAlpha="0.4"
-	resize="Model.instance.vpDuration = Math.round(this.width/Model.instance.zoom)"
+	resize="doResize();"
 	width="2000" height="1000"
 	closing="new CairngormEvent('stop').dispatch()"
 	>
@@ -26,6 +26,10 @@
 			import com.adobe.cairngorm.control.CairngormEvent;
 			import org.scoutant.tvrec.model.*;
 			import org.scoutant.tvrec.event.*;
+			private function doResize():void {
+				if (this.width < 800) Model.instance.vpDuration = 250;
+				else Model.instance.vpDuration = Math.round(this.width/Model.instance.zoom);
+			}
 		]]>
 	</mx:Script>
 	<controller:Controller id="controller"/>
@@ -35,7 +39,6 @@
 		guide="{Model.instance.guide}" 
 		/>
 		<!--
-	<view:DebugView bottom="0" height="180" width="100%"/>
-	-->		
-	
+		<view:DebugView bottom="0" height="180" width="100%"/>
+		-->		
 </mx:WindowedApplication>

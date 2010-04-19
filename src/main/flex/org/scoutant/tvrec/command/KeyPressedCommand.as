@@ -29,12 +29,14 @@ package org.scoutant.tvrec.command {
 		private function withCtrlKeyPressed(key:uint):void {
 			// if (key == 82) TODO. When Air app is lauched from Browser, just need to use launchApplication 
 			// as mentionned in http://www.davidtucker.net/2008/04/01/air-tip-11-launching-an-air-application-from-an-air-application/
-			// Et surtout : http://www.hufkens.net/2009/03/how-to-restart-an-air-application-from-code/					
+			// http://www.hufkens.net/2009/03/how-to-restart-an-air-application-from-code/					
 			if (key == 87) Application.application.close();
 			// If you need Air specific stuff, just cast to WindowedApplication, like so : WindowedApplication ( Application.application)
-			if (key == Keyboard.RIGHT)	new IndexEvent('timeNavigate', 5).dispatch(); 
-			if (key == Keyboard.LEFT) 	new IndexEvent('timeNavigate', -5).dispatch(); 
-			if (key == Keyboard.ENTER ) new CairngormEvent('recordChannel').dispatch(); 
+			if (key == Keyboard.RIGHT)	new IndexEvent('timeNavigate', 3).dispatch(); 
+			if (key == Keyboard.LEFT) 	new IndexEvent('timeNavigate', -3).dispatch(); 
+			if (key == Keyboard.ENTER ) new CairngormEvent('recordChannel').dispatch();
+			if (key == Keyboard.DOWN)	new IndexEvent('channelTrueNavigate', 1).dispatch(); 
+			if (key == Keyboard.UP)		new IndexEvent('channelTrueNavigate', -1).dispatch(); 
 		}
 			
 		private function pressed(key:uint):void {

@@ -58,7 +58,7 @@
 				}
 				trace( "Guide : " + guide);
 				new CairngormEvent("initCursor").dispatch();
-//			new CairngormEvent("initCursorForDev").dispatch();
+				//	new CairngormEvent("initCursorForDev").dispatch();
 				new CairngormEvent("populateViewport").dispatch();
 				// will launch ..
 				TimerMgr.instance;

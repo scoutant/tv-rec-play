@@ -24,9 +24,6 @@ package org.scoutant.tvrec.model {
 		[Bindable]
 		public var now:Number = 21040420;
 //		public var now:Number = Math.round(new Date().getTime()/1000/60);
-//		public var now:Number = 21065845;
-		
-		
 		
 		/** Viewport Time; will be recalculated when current program (time) happens to get out of viewport */
 		[Bindable]
