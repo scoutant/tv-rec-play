@@ -60,4 +60,7 @@
 			]]>
 		</mx:Script>
 	</mx:VBox>
+    <mx:VBox x="800" y="30" clipContent="false" >
+        <mx:Text  fontSize="70" fontWeight="bold" text="{Model.instance.nowHHMM}" />
+    </mx:VBox>
 </mx:Canvas>

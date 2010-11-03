@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!--application xmlns="http://ns.adobe.com/air/application/2.0beta"-->
-<application xmlns="http://ns.adobe.com/air/application/2.0">
+<application xmlns="http://ns.adobe.com/air/application/2.5">
 	<id>airnp</id>
 	<filename>airtv</filename>
 	<name>airtv</name>
-	<version>v1</version>
+	<versionNumber>1.1</versionNumber>
 	<initialWindow>
 		<content>airtv.swf</content>
 	</initialWindow>
 	<supportedProfiles>extendedDesktop</supportedProfiles>
 	<width>1400</width>
 	<height>800</height>
+	<icon>
+        	<image72x72>./assets/airtv.png</image72x72>
+	</icon>
 </application>

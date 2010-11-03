@@ -38,5 +38,8 @@ package org.scoutant.tvrec.model {
 		[Bindable] public var viewportPadding:Number = 60;
 
 		[Bindable] public var isRecording:Boolean = false;
+
+		[Bindable]
+		public var nowHHMM:String = "12:00";
 	}
 }

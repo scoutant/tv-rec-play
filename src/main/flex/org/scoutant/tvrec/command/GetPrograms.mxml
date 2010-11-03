@@ -49,7 +49,7 @@
 					p.channel = x.@channel;
 					p._start =  x.@start;
 					p._stop = x.@stop;
-					p.title = x.title;
+					p.title = x.title[0];
 					p.subtitle = x.subtitle;
 					p.desc = x.desc;
 					for each (var k:XML in x.category) p.category += k + " "; 
