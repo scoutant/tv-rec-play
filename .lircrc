@@ -1,0 +1,148 @@
+begin
+	prog = irexec
+	button = Power
+	config = /home/coutant/prog/flex3.5-air2.5/bin/adl /home/coutant/2010/airtv/src/main/flex/airtv-app.xml > /tmp/airtv.log &
+end
+begin
+	prog = irexec
+	button = Guide
+	config = /home/coutant/prog/flex3.5-air2.5/bin/adl /home/coutant/2010/airtv/src/main/flex/airtv-app.xml > /tmp/airtv.log &
+end
+
+begin
+	prog = irexec
+	button = RecTV
+	config = nautilus /home/coutant/tele
+end
+
+begin
+	prog = irxevent
+	button = UP
+	config = Key Up airtv
+end
+begin
+	prog = irxevent
+	button = DOWN
+	config = Key Down airtv
+end
+begin
+	prog = irxevent
+	button = ChanUP
+	config = Key Up tele
+end
+begin
+	prog = irxevent
+	button = ChanDown
+	config = Key Down tele
+end
+begin
+	prog = irxevent
+	button = DVD
+	config = Key Return tele
+end
+
+begin
+	prog = irxevent
+	button = LEFT
+	config = Key Left airtv
+end
+begin
+	prog = irxevent
+	button = RIGHT
+	config = Key Right airtv
+end
+begin
+	prog = irxevent
+	button = OK
+	config = Key e airtv
+end
+begin
+	prog = irxevent
+	button = STOP
+	config = Key s airtv
+end
+begin
+	prog = irxevent
+	button = Red
+	config = Key ctrl-q CurrentWindow
+end
+
+begin
+	prog = irxevent
+	button = RECORD
+	config = Key o airtv
+end
+begin
+	prog = irxevent
+	button = MUTE
+	config = Key m CurrentWindow
+end
+begin
+	prog = irxevent
+	button = PLAY
+	config = Key space CurrentWindow
+end
+begin
+	prog = irxevent
+	button = PAUSE
+	config = Key space CurrentWindow
+end
+
+
+begin
+	prog = irxevent
+	button = Rewind
+	config = Key ctrl-Left CurrentWindow
+	repeat = 6
+end
+begin
+	prog = irxevent
+	button = Forward
+	config = Key ctrl-Right CurrentWindow
+	repeat = 6
+end
+begin
+	prog = irxevent
+	button = Replay
+	config = Key alt-Left CurrentWindow
+	repeat = 6
+end
+begin
+	prog = irxevent
+	button = Skip
+	config = Key alt-Right CurrentWindow
+	repeat = 6
+end
+
+begin
+	prog = irxevent
+	button = VolUp
+	config = Key ctrl-Up CurrentWindow
+end
+begin
+	prog = irxevent
+	button = VolDown
+	config = Key ctrl-Down CurrentWindow
+end
+
+begin
+	prog = irxevent
+	button = More
+	config = Key t CurrentWindow
+end
+
+
+begin
+	prog = irxevent
+	button = Home
+	config = Key f Lecteur
+end
+begin
+	prog = irxevent
+	button = Green
+	config = Key f CurrentWindow
+end
+
+
+
+
