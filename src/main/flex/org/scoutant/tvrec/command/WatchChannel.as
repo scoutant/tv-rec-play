@@ -16,7 +16,7 @@ package org.scoutant.tvrec.command {
 			trace ("watching : " + channel);
 			var ip:String = Model.instance.playlist.ip[channel.id];
 			trace ("watching @ IP: " + ip);
-			Process.instance.vlc( "--play-and-exit "+ip);			
+			Process.instance.vlc( "--play-and-exit --no-qt-name-in-title "+ip);		
 		}
 	}
 }

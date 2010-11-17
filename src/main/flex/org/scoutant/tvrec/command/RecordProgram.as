@@ -20,7 +20,7 @@ package org.scoutant.tvrec.command {
 			trace ("recording @ IP: " + ip + ", to file : " + program.date+".mpeg");
 			Model.instance.isRecording = true;
 			c++;			
-			Process.instance.vlc( ip+" --sout file/ps:/home/coutant/tele/"+program.normalizedTitle+"-"+program.date+ "-" + c + ".mpeg");			
+			Process.instance.vlc( ip+" --sout-transcode-channels=2 --sout file/ps:/home/coutant/tele/"+program.normalizedTitle+"-"+program.date+ "-" + c + ".mpeg");			
 		}
 	}
 }

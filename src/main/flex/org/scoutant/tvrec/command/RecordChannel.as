@@ -11,7 +11,7 @@ package org.scoutant.tvrec.command {
 			var ip:String = Model.instance.playlist.ip[channel.id];
 			trace ("recording channel @ IP: " + ip + ", to file : recorded.mpeg");
 			Model.instance.isRecording = true;			
-			Process.instance.vlc( ip+" --sout file/ps:/home/coutant/tele/"+channel.normalizedName+"-"+Model.instance.now+".mpeg");			
+			Process.instance.vlc( ip+" --sout-transcode-channels=2 --sout file/ps:/home/coutant/tele/"+channel.normalizedName+"-"+Model.instance.now+".mpeg");			
 		}
 	}
 }

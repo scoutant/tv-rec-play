@@ -17,7 +17,8 @@ package org.scoutant.tvrec.model {
 
 		public function TimerMgr() {
 			_instance = this;
-			timer = new Timer( 1000 * 60);
+//			timer = new Timer( 1000 * 60);
+			timer = new Timer( 1000 * 40);
 			timer.addEventListener( TimerEvent.TIMER, stepForward);
 			timer.start();
 		}

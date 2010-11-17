@@ -46,11 +46,11 @@ package org.scoutant.tvrec.command {
 			if (key == Keyboard.DOWN)	new IndexEvent('channelNavigate', 1).dispatch(); 
 			if (key == Keyboard.UP)		new IndexEvent('channelNavigate', -1).dispatch(); 
 			// o, set for record, marking with a dot icon...
-			if (key == 82) new CairngormEvent('setForRecord').dispatch();
-			if (key == 79) new CairngormEvent('setForRecord').dispatch();
-			// s : stop play or record
-			if (key == 83) new CairngormEvent("stop").dispatch();
+			if (key == Keyboard.O) new CairngormEvent('setForRecord').dispatch();
+			// s : stop any play or record
+			if (key == Keyboard.S ) new CairngormEvent('stop').dispatch(); 
 			if (key == Keyboard.ENTER ) new CairngormEvent('watchChannel').dispatch(); 
+			if (key == Keyboard.E ) new CairngormEvent('watchChannel').dispatch(); 
 			if (key == Keyboard.SPACE ) new CairngormEvent('pause').dispatch(); 
 		}
 	}
