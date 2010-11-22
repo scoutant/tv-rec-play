@@ -142,6 +142,11 @@ begin
 	button = Green
 	config = Key f CurrentWindow
 end
+begin
+	prog = irxevent
+	button = Blue
+	config = Key b airtv
+end
 
 
 

@@ -33,6 +33,8 @@ package org.scoutant.tvrec.controller {
 			addCommand("watchChannel", WatchChannel);
 			addCommand("stop", Stop);
 			addCommand("endOfRecording", EndOfRecording);
+			addCommand("blackScreen", ToggleBlackScreen);
+
 		}
 		
 		override protected function executeCommand(event:CairngormEvent):void {

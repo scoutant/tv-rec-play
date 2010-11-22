@@ -52,6 +52,8 @@ package org.scoutant.tvrec.command {
 			if (key == Keyboard.ENTER ) new CairngormEvent('watchChannel').dispatch(); 
 			if (key == Keyboard.E ) new CairngormEvent('watchChannel').dispatch(); 
 			if (key == Keyboard.SPACE ) new CairngormEvent('pause').dispatch(); 
+			if (key == Keyboard.B ) new CairngormEvent('blackScreen').dispatch(); 
+
 		}
 	}
 }
