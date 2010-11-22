@@ -1,0 +1,10 @@
+.actionScriptProperties
+.flexProperties
+.project
+.settings
+bin-debug
+libs
+*.swf
+halo.swc
+*~
+tv1.xml
